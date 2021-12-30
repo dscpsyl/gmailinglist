@@ -1,0 +1,1514 @@
+01-Nov-20 16:52:29:INFO:********************************************
+01-Nov-20 16:52:29:INFO:Starting Gmail email script...
+01-Nov-20 16:52:29:CRITICAL:Json File Error. Please check log
+01-Nov-20 16:53:00:INFO:********************************************
+01-Nov-20 16:53:00:INFO:Starting Gmail email script...
+01-Nov-20 16:53:00:CRITICAL:Json File Error. Please check log
+01-Nov-20 16:56:43:INFO:********************************************
+01-Nov-20 16:56:43:INFO:Starting Gmail email script...
+01-Nov-20 16:56:43:CRITICAL:Json File Error. Please check log
+01-Nov-20 16:57:05:INFO:********************************************
+01-Nov-20 16:57:05:INFO:Starting Gmail email script...
+01-Nov-20 16:57:05:CRITICAL:Json File Error. Please check log
+01-Nov-20 16:58:01:INFO:********************************************
+01-Nov-20 16:58:01:INFO:Starting Gmail email script...
+01-Nov-20 16:58:01:INFO:Token found.
+01-Nov-20 16:58:01:WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+01-Nov-20 16:58:43:INFO:********************************************
+01-Nov-20 16:58:43:INFO:Starting Gmail email script...
+01-Nov-20 16:58:43:INFO:Token found.
+01-Nov-20 16:58:43:WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+01-Nov-20 16:58:43:INFO:Using sender as: David Sim<dsim4205@tcusd.net>
+01-Nov-20 16:58:43:INFO:Max rows is: 20and max column is: 4
+01-Nov-20 16:59:01:INFO:List has been cycled through. Exiting...
+01-Nov-20 17:00:22:INFO:********************************************
+01-Nov-20 17:00:22:INFO:Starting Gmail email script...
+01-Nov-20 17:00:22:INFO:Token found.
+01-Nov-20 17:00:22:WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+01-Nov-20 17:00:22:INFO:Using sender as: David Sim<dsim4205@tcusd.net>
+01-Nov-20 17:00:22:INFO:Max rows is: 20and max column is: 4
+01-Nov-20 17:00:22:INFO:with body content:Dear Ashley,
+
+
+    We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+    Here is the meeting link:
+    
+    Join Zoom Meeting
+    https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+    Meeting ID: 851 4791 9091
+    Passcode: i7nE9x
+    
+    We'll see you there!
+    
+    David Sim 
+    President - Therapy Dog Club
+    
+01-Nov-20 17:00:23:INFO:with body content:Dear Lauren,
+
+
+    We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+    Here is the meeting link:
+    
+    Join Zoom Meeting
+    https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+    Meeting ID: 851 4791 9091
+    Passcode: i7nE9x
+    
+    We'll see you there!
+    
+    David Sim 
+    President - Therapy Dog Club
+    
+01-Nov-20 17:00:24:INFO:with body content:Dear Shanon,
+
+
+    We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+    Here is the meeting link:
+    
+    Join Zoom Meeting
+    https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+    Meeting ID: 851 4791 9091
+    Passcode: i7nE9x
+    
+    We'll see you there!
+    
+    David Sim 
+    President - Therapy Dog Club
+    
+01-Nov-20 17:00:25:INFO:with body content:Dear Jaden,
+
+
+    We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+    Here is the meeting link:
+    
+    Join Zoom Meeting
+    https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+    Meeting ID: 851 4791 9091
+    Passcode: i7nE9x
+    
+    We'll see you there!
+    
+    David Sim 
+    President - Therapy Dog Club
+    
+01-Nov-20 17:00:26:INFO:with body content:Dear Stephanie,
+
+
+    We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+    Here is the meeting link:
+    
+    Join Zoom Meeting
+    https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+    Meeting ID: 851 4791 9091
+    Passcode: i7nE9x
+    
+    We'll see you there!
+    
+    David Sim 
+    President - Therapy Dog Club
+    
+01-Nov-20 17:00:27:INFO:with body content:Dear Vicky,
+
+
+    We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+    Here is the meeting link:
+    
+    Join Zoom Meeting
+    https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+    Meeting ID: 851 4791 9091
+    Passcode: i7nE9x
+    
+    We'll see you there!
+    
+    David Sim 
+    President - Therapy Dog Club
+    
+01-Nov-20 17:00:28:INFO:with body content:Dear Hailey,
+
+
+    We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+    Here is the meeting link:
+    
+    Join Zoom Meeting
+    https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+    Meeting ID: 851 4791 9091
+    Passcode: i7nE9x
+    
+    We'll see you there!
+    
+    David Sim 
+    President - Therapy Dog Club
+    
+01-Nov-20 17:00:29:INFO:with body content:Dear Anne,
+
+
+    We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+    Here is the meeting link:
+    
+    Join Zoom Meeting
+    https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+    Meeting ID: 851 4791 9091
+    Passcode: i7nE9x
+    
+    We'll see you there!
+    
+    David Sim 
+    President - Therapy Dog Club
+    
+01-Nov-20 17:00:30:INFO:with body content:Dear Allison,
+
+
+    We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+    Here is the meeting link:
+    
+    Join Zoom Meeting
+    https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+    Meeting ID: 851 4791 9091
+    Passcode: i7nE9x
+    
+    We'll see you there!
+    
+    David Sim 
+    President - Therapy Dog Club
+    
+01-Nov-20 17:00:31:INFO:with body content:Dear Adrian,
+
+
+    We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+    Here is the meeting link:
+    
+    Join Zoom Meeting
+    https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+    Meeting ID: 851 4791 9091
+    Passcode: i7nE9x
+    
+    We'll see you there!
+    
+    David Sim 
+    President - Therapy Dog Club
+    
+01-Nov-20 17:00:32:INFO:with body content:Dear Allison,
+
+
+    We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+    Here is the meeting link:
+    
+    Join Zoom Meeting
+    https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+    Meeting ID: 851 4791 9091
+    Passcode: i7nE9x
+    
+    We'll see you there!
+    
+    David Sim 
+    President - Therapy Dog Club
+    
+01-Nov-20 17:00:33:INFO:with body content:Dear Jonathan,
+
+
+    We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+    Here is the meeting link:
+    
+    Join Zoom Meeting
+    https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+    Meeting ID: 851 4791 9091
+    Passcode: i7nE9x
+    
+    We'll see you there!
+    
+    David Sim 
+    President - Therapy Dog Club
+    
+01-Nov-20 17:00:34:INFO:with body content:Dear Jasmine,
+
+
+    We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+    Here is the meeting link:
+    
+    Join Zoom Meeting
+    https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+    Meeting ID: 851 4791 9091
+    Passcode: i7nE9x
+    
+    We'll see you there!
+    
+    David Sim 
+    President - Therapy Dog Club
+    
+01-Nov-20 17:00:35:INFO:with body content:Dear Chloe,
+
+
+    We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+    Here is the meeting link:
+    
+    Join Zoom Meeting
+    https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+    Meeting ID: 851 4791 9091
+    Passcode: i7nE9x
+    
+    We'll see you there!
+    
+    David Sim 
+    President - Therapy Dog Club
+    
+01-Nov-20 17:00:36:INFO:with body content:Dear Kelly,
+
+
+    We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+    Here is the meeting link:
+    
+    Join Zoom Meeting
+    https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+    Meeting ID: 851 4791 9091
+    Passcode: i7nE9x
+    
+    We'll see you there!
+    
+    David Sim 
+    President - Therapy Dog Club
+    
+01-Nov-20 17:00:37:INFO:with body content:Dear Kaylee,
+
+
+    We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+    Here is the meeting link:
+    
+    Join Zoom Meeting
+    https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+    Meeting ID: 851 4791 9091
+    Passcode: i7nE9x
+    
+    We'll see you there!
+    
+    David Sim 
+    President - Therapy Dog Club
+    
+01-Nov-20 17:00:38:INFO:with body content:Dear My Cat,
+
+
+    We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+    Here is the meeting link:
+    
+    Join Zoom Meeting
+    https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+    Meeting ID: 851 4791 9091
+    Passcode: i7nE9x
+    
+    We'll see you there!
+    
+    David Sim 
+    President - Therapy Dog Club
+    
+01-Nov-20 17:00:39:INFO:with body content:Dear Jacqueline ,
+
+
+    We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+    Here is the meeting link:
+    
+    Join Zoom Meeting
+    https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+    Meeting ID: 851 4791 9091
+    Passcode: i7nE9x
+    
+    We'll see you there!
+    
+    David Sim 
+    President - Therapy Dog Club
+    
+01-Nov-20 17:00:40:INFO:List has been cycled through. Exiting...
+01-Nov-20 17:02:06:INFO:********************************************
+01-Nov-20 17:02:06:INFO:Starting Gmail email script...
+01-Nov-20 17:02:06:INFO:Token found.
+01-Nov-20 17:02:06:WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+01-Nov-20 17:02:06:INFO:Using sender as: David Sim<dsim4205@tcusd.net>
+01-Nov-20 17:02:06:INFO:Max rows is: 20and max column is: 4
+01-Nov-20 17:02:06:INFO:with body content:
+Dear Ashley,
+
+    We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+    Here is the meeting link:
+    
+    Join Zoom Meeting
+    https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+    Meeting ID: 851 4791 9091
+    Passcode: i7nE9x
+    
+    We'll see you there!
+    
+    David Sim 
+    President - Therapy Dog Club
+    
+01-Nov-20 17:02:07:INFO:with body content:
+Dear Lauren,
+
+    We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+    Here is the meeting link:
+    
+    Join Zoom Meeting
+    https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+    Meeting ID: 851 4791 9091
+    Passcode: i7nE9x
+    
+    We'll see you there!
+    
+    David Sim 
+    President - Therapy Dog Club
+    
+01-Nov-20 17:02:08:INFO:with body content:
+Dear Shanon,
+
+    We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+    Here is the meeting link:
+    
+    Join Zoom Meeting
+    https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+    Meeting ID: 851 4791 9091
+    Passcode: i7nE9x
+    
+    We'll see you there!
+    
+    David Sim 
+    President - Therapy Dog Club
+    
+01-Nov-20 17:02:09:INFO:with body content:
+Dear Jaden,
+
+    We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+    Here is the meeting link:
+    
+    Join Zoom Meeting
+    https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+    Meeting ID: 851 4791 9091
+    Passcode: i7nE9x
+    
+    We'll see you there!
+    
+    David Sim 
+    President - Therapy Dog Club
+    
+01-Nov-20 17:02:10:INFO:with body content:
+Dear Stephanie,
+
+    We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+    Here is the meeting link:
+    
+    Join Zoom Meeting
+    https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+    Meeting ID: 851 4791 9091
+    Passcode: i7nE9x
+    
+    We'll see you there!
+    
+    David Sim 
+    President - Therapy Dog Club
+    
+01-Nov-20 17:02:11:INFO:with body content:
+Dear Vicky,
+
+    We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+    Here is the meeting link:
+    
+    Join Zoom Meeting
+    https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+    Meeting ID: 851 4791 9091
+    Passcode: i7nE9x
+    
+    We'll see you there!
+    
+    David Sim 
+    President - Therapy Dog Club
+    
+01-Nov-20 17:02:12:INFO:with body content:
+Dear Hailey,
+
+    We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+    Here is the meeting link:
+    
+    Join Zoom Meeting
+    https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+    Meeting ID: 851 4791 9091
+    Passcode: i7nE9x
+    
+    We'll see you there!
+    
+    David Sim 
+    President - Therapy Dog Club
+    
+01-Nov-20 17:02:13:INFO:with body content:
+Dear Anne,
+
+    We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+    Here is the meeting link:
+    
+    Join Zoom Meeting
+    https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+    Meeting ID: 851 4791 9091
+    Passcode: i7nE9x
+    
+    We'll see you there!
+    
+    David Sim 
+    President - Therapy Dog Club
+    
+01-Nov-20 17:02:14:INFO:with body content:
+Dear Allison,
+
+    We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+    Here is the meeting link:
+    
+    Join Zoom Meeting
+    https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+    Meeting ID: 851 4791 9091
+    Passcode: i7nE9x
+    
+    We'll see you there!
+    
+    David Sim 
+    President - Therapy Dog Club
+    
+01-Nov-20 17:02:15:INFO:with body content:
+Dear Adrian,
+
+    We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+    Here is the meeting link:
+    
+    Join Zoom Meeting
+    https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+    Meeting ID: 851 4791 9091
+    Passcode: i7nE9x
+    
+    We'll see you there!
+    
+    David Sim 
+    President - Therapy Dog Club
+    
+01-Nov-20 17:02:16:INFO:with body content:
+Dear Allison,
+
+    We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+    Here is the meeting link:
+    
+    Join Zoom Meeting
+    https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+    Meeting ID: 851 4791 9091
+    Passcode: i7nE9x
+    
+    We'll see you there!
+    
+    David Sim 
+    President - Therapy Dog Club
+    
+01-Nov-20 17:02:17:INFO:with body content:
+Dear Jonathan,
+
+    We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+    Here is the meeting link:
+    
+    Join Zoom Meeting
+    https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+    Meeting ID: 851 4791 9091
+    Passcode: i7nE9x
+    
+    We'll see you there!
+    
+    David Sim 
+    President - Therapy Dog Club
+    
+01-Nov-20 17:02:18:INFO:with body content:
+Dear Jasmine,
+
+    We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+    Here is the meeting link:
+    
+    Join Zoom Meeting
+    https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+    Meeting ID: 851 4791 9091
+    Passcode: i7nE9x
+    
+    We'll see you there!
+    
+    David Sim 
+    President - Therapy Dog Club
+    
+01-Nov-20 17:02:19:INFO:with body content:
+Dear Chloe,
+
+    We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+    Here is the meeting link:
+    
+    Join Zoom Meeting
+    https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+    Meeting ID: 851 4791 9091
+    Passcode: i7nE9x
+    
+    We'll see you there!
+    
+    David Sim 
+    President - Therapy Dog Club
+    
+01-Nov-20 17:02:20:INFO:with body content:
+Dear Kelly,
+
+    We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+    Here is the meeting link:
+    
+    Join Zoom Meeting
+    https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+    Meeting ID: 851 4791 9091
+    Passcode: i7nE9x
+    
+    We'll see you there!
+    
+    David Sim 
+    President - Therapy Dog Club
+    
+01-Nov-20 17:02:21:INFO:with body content:
+Dear Kaylee,
+
+    We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+    Here is the meeting link:
+    
+    Join Zoom Meeting
+    https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+    Meeting ID: 851 4791 9091
+    Passcode: i7nE9x
+    
+    We'll see you there!
+    
+    David Sim 
+    President - Therapy Dog Club
+    
+01-Nov-20 17:02:22:INFO:with body content:
+Dear My Cat,
+
+    We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+    Here is the meeting link:
+    
+    Join Zoom Meeting
+    https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+    Meeting ID: 851 4791 9091
+    Passcode: i7nE9x
+    
+    We'll see you there!
+    
+    David Sim 
+    President - Therapy Dog Club
+    
+01-Nov-20 17:02:23:INFO:with body content:
+Dear Jacqueline ,
+
+    We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+    Here is the meeting link:
+    
+    Join Zoom Meeting
+    https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+    Meeting ID: 851 4791 9091
+    Passcode: i7nE9x
+    
+    We'll see you there!
+    
+    David Sim 
+    President - Therapy Dog Club
+    
+01-Nov-20 17:02:24:INFO:with body content:
+Dear Suraj,
+
+    We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+    Here is the meeting link:
+    
+    Join Zoom Meeting
+    https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+    Meeting ID: 851 4791 9091
+    Passcode: i7nE9x
+    
+    We'll see you there!
+    
+    David Sim 
+    President - Therapy Dog Club
+    
+01-Nov-20 17:02:25:INFO:List has been cycled through. Exiting...
+01-Nov-20 17:03:07:INFO:********************************************
+01-Nov-20 17:03:07:INFO:Starting Gmail email script...
+01-Nov-20 17:03:07:INFO:Token found.
+01-Nov-20 17:03:07:WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+01-Nov-20 17:03:07:INFO:Using sender as: David Sim<dsim4205@tcusd.net>
+01-Nov-20 17:03:07:INFO:Max rows is: 20and max column is: 4
+01-Nov-20 17:03:07:INFO:with body content:
+Dear Ashley,
+
+We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+01-Nov-20 17:03:08:INFO:with body content:
+Dear Lauren,
+
+We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+01-Nov-20 17:03:09:INFO:with body content:
+Dear Shanon,
+
+We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+01-Nov-20 17:03:10:INFO:with body content:
+Dear Jaden,
+
+We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+01-Nov-20 17:03:11:INFO:with body content:
+Dear Stephanie,
+
+We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+01-Nov-20 17:03:12:INFO:with body content:
+Dear Vicky,
+
+We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+01-Nov-20 17:03:13:INFO:with body content:
+Dear Hailey,
+
+We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+01-Nov-20 17:03:14:INFO:with body content:
+Dear Anne,
+
+We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+01-Nov-20 17:03:15:INFO:with body content:
+Dear Allison,
+
+We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+01-Nov-20 17:03:16:INFO:with body content:
+Dear Adrian,
+
+We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+01-Nov-20 17:03:17:INFO:with body content:
+Dear Allison,
+
+We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+01-Nov-20 17:03:18:INFO:with body content:
+Dear Jonathan,
+
+We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+01-Nov-20 17:03:19:INFO:with body content:
+Dear Jasmine,
+
+We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+01-Nov-20 17:03:20:INFO:with body content:
+Dear Chloe,
+
+We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+01-Nov-20 17:03:21:INFO:with body content:
+Dear Kelly,
+
+We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+01-Nov-20 17:03:22:INFO:with body content:
+Dear Kaylee,
+
+We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+01-Nov-20 17:03:23:INFO:with body content:
+Dear My Cat,
+
+We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+01-Nov-20 17:03:24:INFO:with body content:
+Dear Jacqueline ,
+
+We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+01-Nov-20 17:03:25:INFO:with body content:
+Dear Suraj,
+
+We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+01-Nov-20 17:03:26:INFO:List has been cycled through. Exiting...
+01-Nov-20 17:05:20:INFO:********************************************
+01-Nov-20 17:05:20:INFO:Starting Gmail email script...
+01-Nov-20 17:05:20:INFO:Token found.
+01-Nov-20 17:05:20:WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+01-Nov-20 17:05:20:INFO:Using sender as: David Sim<dsim4205@tcusd.net>
+01-Nov-20 17:05:20:INFO:Max rows is: 20and max column is: 4
+01-Nov-20 17:05:20:INFO:Sending email to: Ashley with the address: atran3552@tcusd.net 
+01-Nov-20 17:05:20:INFO:With body content:
+Dear Ashley,
+
+We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+01-Nov-20 17:05:21:INFO:Sending email to: Lauren with the address: lyoder2789@tcusd.net
+01-Nov-20 17:05:21:INFO:With body content:
+Dear Lauren,
+
+We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+01-Nov-20 17:05:22:INFO:Sending email to: Shanon with the address: span4658@tcusd.net
+01-Nov-20 17:05:22:INFO:With body content:
+Dear Shanon,
+
+We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+01-Nov-20 17:05:23:INFO:Sending email to: Jaden with the address: jqueron3535@tcusd.net
+01-Nov-20 17:05:23:INFO:With body content:
+Dear Jaden,
+
+We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+01-Nov-20 17:05:24:INFO:Sending email to: Stephanie with the address: xhu2863@tcusd.net
+01-Nov-20 17:05:24:INFO:With body content:
+Dear Stephanie,
+
+We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+01-Nov-20 17:05:25:INFO:Sending email to: Vicky with the address: wli4135@tcusd.net
+01-Nov-20 17:05:25:INFO:With body content:
+Dear Vicky,
+
+We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+01-Nov-20 17:05:26:INFO:Sending email to: Hailey with the address: hau3725@tcusd.net
+01-Nov-20 17:05:26:INFO:With body content:
+Dear Hailey,
+
+We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+01-Nov-20 17:05:27:INFO:Sending email to: Anne with the address: dzhu3885@tcusd.net
+01-Nov-20 17:05:27:INFO:With body content:
+Dear Anne,
+
+We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+01-Nov-20 17:05:28:INFO:Sending email to: Allison with the address: apan3320@tcusd.net
+01-Nov-20 17:05:28:INFO:With body content:
+Dear Allison,
+
+We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+01-Nov-20 17:05:29:INFO:Sending email to: Adrian with the address: cchow3786@tcusd.net
+01-Nov-20 17:05:29:INFO:With body content:
+Dear Adrian,
+
+We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+01-Nov-20 17:05:30:INFO:Sending email to: Allison with the address: apan3320@tcusd.net
+01-Nov-20 17:05:30:INFO:With body content:
+Dear Allison,
+
+We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+01-Nov-20 17:05:31:INFO:Sending email to: Jonathan with the address: jlee4933@tcusd.net
+01-Nov-20 17:05:31:INFO:With body content:
+Dear Jonathan,
+
+We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+01-Nov-20 17:05:32:INFO:Sending email to: Jasmine with the address: jliu2788@tcusd.net
+01-Nov-20 17:05:32:INFO:With body content:
+Dear Jasmine,
+
+We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+01-Nov-20 17:05:33:INFO:Sending email to: Chloe with the address: cluong3964@tcusd.net
+01-Nov-20 17:05:33:INFO:With body content:
+Dear Chloe,
+
+We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+01-Nov-20 17:05:34:INFO:Sending email to: Kelly with the address: kpoplar3228@tcusd.net
+01-Nov-20 17:05:34:INFO:With body content:
+Dear Kelly,
+
+We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+01-Nov-20 17:05:35:INFO:Sending email to: Kaylee with the address: keiber4542@tcusd.net
+01-Nov-20 17:05:35:INFO:With body content:
+Dear Kaylee,
+
+We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+01-Nov-20 17:05:36:INFO:Sending email to: My Cat with the address: MDuong0107@tcusd.net
+01-Nov-20 17:05:36:INFO:With body content:
+Dear My Cat,
+
+We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+01-Nov-20 17:05:37:INFO:Sending email to: Jacqueline  with the address: jreyes1686@tcusd.net
+01-Nov-20 17:05:37:INFO:With body content:
+Dear Jacqueline ,
+
+We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+01-Nov-20 17:05:38:INFO:Sending email to: Suraj with the address: sshah4312@tcusd.net
+01-Nov-20 17:05:38:INFO:With body content:
+Dear Suraj,
+
+We will be having our second Therapy Dog Club meeting next Monday, Nov. 10 at 1PM. We will be going over more about service animals in general and their role on our campus.
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+01-Nov-20 17:05:39:INFO:List has been cycled through. Exiting...
+01-Nov-20 17:10:03:INFO:********************************************
+01-Nov-20 17:10:03:INFO:Starting Gmail email script...
+01-Nov-20 17:10:03:INFO:Token found.
+01-Nov-20 17:10:03:WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+01-Nov-20 17:10:04:INFO:Using sender as: David Sim<dsim4205@tcusd.net>
+01-Nov-20 17:10:04:INFO:Max rows is: 20and max column is: 4
+01-Nov-20 17:10:04:INFO:Starting on email for: Ashley
+01-Nov-20 17:10:04:INFO:     Draft saved to Google's servers with id: r-4037705821707311118
+01-Nov-20 17:10:04:INFO:Email for Ashley has been successfully sent to atran3552@tcusd.net !
+01-Nov-20 17:10:04:INFO:#####
+01-Nov-20 17:10:04:INFO:Sending email to: Ashley with the address: atran3552@tcusd.net 
+01-Nov-20 17:10:04:INFO:With body content:
+Dear Ashley,
+
+We will be having our second Therapy Dog Club meeting next Monday, Nov. 9 at 1PM. We will be going over more about therapy animals in general and their role on our campus.
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+01-Nov-20 17:10:05:CRITICAL:Max email limit reached. Exiting...

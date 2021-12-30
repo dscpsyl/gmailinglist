@@ -1,0 +1,810 @@
+28-Nov-20 22:09:12:INFO:********************************************
+28-Nov-20 22:09:12:INFO:Starting Gmail email script...
+28-Nov-20 22:09:12:INFO:Token found.
+28-Nov-20 22:09:14:WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+28-Nov-20 22:09:14:INFO:Using sender as: David Sim<dsim4205@tcusd.net>
+28-Nov-20 22:09:14:INFO:Max rows is: 22and max column is: 4
+28-Nov-20 22:09:14:INFO:Starting on email for: Hailey
+28-Nov-20 22:09:15:INFO:     Draft saved to Google's servers with id: r-1872141255045193457
+28-Nov-20 22:09:15:INFO:Email for Hailey has been successfully sent to hau3725@tcusd.net!
+28-Nov-20 22:09:15:INFO:#####
+28-Nov-20 22:09:15:INFO:Sending email to: Hailey with the address: hau3725@tcusd.net
+28-Nov-20 22:09:15:INFO:With body content:
+Dear Hailey,
+
+We hope you had an amazing and safe Thanskgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be taking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:09:16:INFO:Starting on email for: Adrian
+28-Nov-20 22:09:16:INFO:     Draft saved to Google's servers with id: r-2021242566907635670
+28-Nov-20 22:09:16:INFO:Email for Adrian has been successfully sent to cchow3786@tcusd.net!
+28-Nov-20 22:09:16:INFO:#####
+28-Nov-20 22:09:16:INFO:Sending email to: Adrian with the address: cchow3786@tcusd.net
+28-Nov-20 22:09:16:INFO:With body content:
+Dear Adrian,
+
+We hope you had an amazing and safe Thanskgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be taking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:09:17:INFO:Starting on email for: My Cat
+28-Nov-20 22:09:18:INFO:     Draft saved to Google's servers with id: r-1498015605279380234
+28-Nov-20 22:09:18:INFO:Email for My Cat has been successfully sent to MDuong0107@tcusd.net!
+28-Nov-20 22:09:18:INFO:#####
+28-Nov-20 22:09:18:INFO:Sending email to: My Cat with the address: MDuong0107@tcusd.net
+28-Nov-20 22:09:18:INFO:With body content:
+Dear My Cat,
+
+We hope you had an amazing and safe Thanskgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be taking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:09:19:INFO:Starting on email for: Kaylee
+28-Nov-20 22:09:19:INFO:     Draft saved to Google's servers with id: r-7194345188814761650
+28-Nov-20 22:09:19:INFO:Email for Kaylee has been successfully sent to keiber4542@tcusd.net!
+28-Nov-20 22:09:19:INFO:#####
+28-Nov-20 22:09:19:INFO:Sending email to: Kaylee with the address: keiber4542@tcusd.net
+28-Nov-20 22:09:19:INFO:With body content:
+Dear Kaylee,
+
+We hope you had an amazing and safe Thanskgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be taking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:09:20:INFO:Starting on email for: Stephanie
+28-Nov-20 22:09:21:INFO:     Draft saved to Google's servers with id: r-4469909911230789648
+28-Nov-20 22:09:21:INFO:Email for Stephanie has been successfully sent to xhu2863@tcusd.net!
+28-Nov-20 22:09:21:INFO:#####
+28-Nov-20 22:09:21:INFO:Sending email to: Stephanie with the address: xhu2863@tcusd.net
+28-Nov-20 22:09:21:INFO:With body content:
+Dear Stephanie,
+
+We hope you had an amazing and safe Thanskgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be taking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:09:22:INFO:Starting on email for: Jonathan
+28-Nov-20 22:09:22:INFO:     Draft saved to Google's servers with id: r-7924760407581802756
+28-Nov-20 22:09:22:INFO:Email for Jonathan has been successfully sent to jlee4933@tcusd.net!
+28-Nov-20 22:09:22:INFO:#####
+28-Nov-20 22:09:22:INFO:Sending email to: Jonathan with the address: jlee4933@tcusd.net
+28-Nov-20 22:09:22:INFO:With body content:
+Dear Jonathan,
+
+We hope you had an amazing and safe Thanskgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be taking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:09:23:INFO:Starting on email for: Jason
+28-Nov-20 22:09:24:INFO:     Draft saved to Google's servers with id: r7369970348496523004
+28-Nov-20 22:09:24:INFO:Email for Jason has been successfully sent to jlee3440@tcusd.net!
+28-Nov-20 22:09:24:INFO:#####
+28-Nov-20 22:09:24:INFO:Sending email to: Jason with the address: jlee3440@tcusd.net
+28-Nov-20 22:09:24:INFO:With body content:
+Dear Jason,
+
+We hope you had an amazing and safe Thanskgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be taking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:09:25:INFO:Starting on email for: Vicky
+28-Nov-20 22:09:25:INFO:     Draft saved to Google's servers with id: r-8225113111530690948
+28-Nov-20 22:09:25:INFO:Email for Vicky has been successfully sent to wli4135@tcusd.net!
+28-Nov-20 22:09:25:INFO:#####
+28-Nov-20 22:09:25:INFO:Sending email to: Vicky with the address: wli4135@tcusd.net
+28-Nov-20 22:09:25:INFO:With body content:
+Dear Vicky,
+
+We hope you had an amazing and safe Thanskgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be taking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:09:26:INFO:Starting on email for: Jasmine
+28-Nov-20 22:09:30:INFO:     Draft saved to Google's servers with id: r-7438106551931404942
+28-Nov-20 22:09:30:INFO:Email for Jasmine has been successfully sent to jliu2788@tcusd.net!
+28-Nov-20 22:09:30:INFO:#####
+28-Nov-20 22:09:30:INFO:Sending email to: Jasmine with the address: jliu2788@tcusd.net
+28-Nov-20 22:09:30:INFO:With body content:
+Dear Jasmine,
+
+We hope you had an amazing and safe Thanskgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be taking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:09:31:INFO:Starting on email for: Chloe
+28-Nov-20 22:09:32:INFO:     Draft saved to Google's servers with id: r8957955272408600836
+28-Nov-20 22:09:32:INFO:Email for Chloe has been successfully sent to cluong3964@tcusd.net!
+28-Nov-20 22:09:32:INFO:#####
+28-Nov-20 22:09:32:INFO:Sending email to: Chloe with the address: cluong3964@tcusd.net
+28-Nov-20 22:09:32:INFO:With body content:
+Dear Chloe,
+
+We hope you had an amazing and safe Thanskgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be taking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:09:33:INFO:Starting on email for: Maria
+28-Nov-20 22:09:33:INFO:     Draft saved to Google's servers with id: r1706269795363614585
+28-Nov-20 22:09:33:INFO:Email for Maria has been successfully sent to moceguera0395@tcusd.net!
+28-Nov-20 22:09:33:INFO:#####
+28-Nov-20 22:09:33:INFO:Sending email to: Maria with the address: moceguera0395@tcusd.net
+28-Nov-20 22:09:33:INFO:With body content:
+Dear Maria,
+
+We hope you had an amazing and safe Thanskgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be taking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:09:34:INFO:Starting on email for: Shanon
+28-Nov-20 22:09:34:INFO:     Draft saved to Google's servers with id: r-8863285960504879797
+28-Nov-20 22:09:34:INFO:Email for Shanon has been successfully sent to span4658@tcusd.net!
+28-Nov-20 22:09:34:INFO:#####
+28-Nov-20 22:09:34:INFO:Sending email to: Shanon with the address: span4658@tcusd.net
+28-Nov-20 22:09:34:INFO:With body content:
+Dear Shanon,
+
+We hope you had an amazing and safe Thanskgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be taking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:09:36:INFO:Starting on email for: Allison
+28-Nov-20 22:09:36:INFO:     Draft saved to Google's servers with id: r3799867341692606395
+28-Nov-20 22:09:36:INFO:Email for Allison has been successfully sent to apan3320@tcusd.net!
+28-Nov-20 22:09:36:INFO:#####
+28-Nov-20 22:09:36:INFO:Sending email to: Allison with the address: apan3320@tcusd.net
+28-Nov-20 22:09:36:INFO:With body content:
+Dear Allison,
+
+We hope you had an amazing and safe Thanskgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be taking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:09:37:INFO:Starting on email for: Kelly
+28-Nov-20 22:09:38:INFO:     Draft saved to Google's servers with id: r2998581697684792923
+28-Nov-20 22:09:38:INFO:Email for Kelly has been successfully sent to kpoplar3228@tcusd.net!
+28-Nov-20 22:09:38:INFO:#####
+28-Nov-20 22:09:38:INFO:Sending email to: Kelly with the address: kpoplar3228@tcusd.net
+28-Nov-20 22:09:38:INFO:With body content:
+Dear Kelly,
+
+We hope you had an amazing and safe Thanskgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be taking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:09:39:INFO:Starting on email for: Jaden
+28-Nov-20 22:09:40:INFO:     Draft saved to Google's servers with id: r2660767150024367196
+28-Nov-20 22:09:40:INFO:Email for Jaden has been successfully sent to jqueron3535@tcusd.net!
+28-Nov-20 22:09:40:INFO:#####
+28-Nov-20 22:09:40:INFO:Sending email to: Jaden with the address: jqueron3535@tcusd.net
+28-Nov-20 22:09:40:INFO:With body content:
+Dear Jaden,
+
+We hope you had an amazing and safe Thanskgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be taking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:09:41:INFO:Starting on email for: Jacqueline 
+28-Nov-20 22:09:41:INFO:     Draft saved to Google's servers with id: r1695235713830271915
+28-Nov-20 22:09:41:INFO:Email for Jacqueline  has been successfully sent to jreyes1686@tcusd.net!
+28-Nov-20 22:09:41:INFO:#####
+28-Nov-20 22:09:41:INFO:Sending email to: Jacqueline  with the address: jreyes1686@tcusd.net
+28-Nov-20 22:09:41:INFO:With body content:
+Dear Jacqueline ,
+
+We hope you had an amazing and safe Thanskgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be taking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:09:42:INFO:Starting on email for: Armita
+28-Nov-20 22:09:43:INFO:     Draft saved to Google's servers with id: r-3603390548696297689
+28-Nov-20 22:09:43:INFO:Email for Armita has been successfully sent to ashadfar3564@tcusd.net!
+28-Nov-20 22:09:43:INFO:#####
+28-Nov-20 22:09:43:INFO:Sending email to: Armita with the address: ashadfar3564@tcusd.net
+28-Nov-20 22:09:43:INFO:With body content:
+Dear Armita,
+
+We hope you had an amazing and safe Thanskgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be taking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:09:44:INFO:Starting on email for: Suraj
+28-Nov-20 22:09:44:INFO:     Draft saved to Google's servers with id: r-8466368550347823508
+28-Nov-20 22:09:44:INFO:Email for Suraj has been successfully sent to sshah4312@tcusd.net!
+28-Nov-20 22:09:44:INFO:#####
+28-Nov-20 22:09:44:INFO:Sending email to: Suraj with the address: sshah4312@tcusd.net
+28-Nov-20 22:09:44:INFO:With body content:
+Dear Suraj,
+
+We hope you had an amazing and safe Thanskgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be taking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:09:45:INFO:Starting on email for: Ashley
+28-Nov-20 22:09:46:INFO:     Draft saved to Google's servers with id: r-7517411135251892982
+28-Nov-20 22:09:46:INFO:Email for Ashley has been successfully sent to atran3552@tcusd.net !
+28-Nov-20 22:09:46:INFO:#####
+28-Nov-20 22:09:46:INFO:Sending email to: Ashley with the address: atran3552@tcusd.net 
+28-Nov-20 22:09:46:INFO:With body content:
+Dear Ashley,
+
+We hope you had an amazing and safe Thanskgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be taking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:09:47:INFO:Starting on email for: Lauren
+28-Nov-20 22:09:47:INFO:     Draft saved to Google's servers with id: r3992022546827356195
+28-Nov-20 22:09:47:INFO:Email for Lauren has been successfully sent to lyoder2789@tcusd.net!
+28-Nov-20 22:09:47:INFO:#####
+28-Nov-20 22:09:47:INFO:Sending email to: Lauren with the address: lyoder2789@tcusd.net
+28-Nov-20 22:09:47:INFO:With body content:
+Dear Lauren,
+
+We hope you had an amazing and safe Thanskgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be taking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:09:48:INFO:Starting on email for: Anne
+28-Nov-20 22:09:49:INFO:     Draft saved to Google's servers with id: r5449230934744682692
+28-Nov-20 22:09:49:INFO:Email for Anne has been successfully sent to dzhu3885@tcusd.net!
+28-Nov-20 22:09:49:INFO:#####
+28-Nov-20 22:09:49:INFO:Sending email to: Anne with the address: dzhu3885@tcusd.net
+28-Nov-20 22:09:49:INFO:With body content:
+Dear Anne,
+
+We hope you had an amazing and safe Thanskgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be taking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:09:50:INFO:List has been cycled through. Exiting...
+28-Nov-20 22:10:33:INFO:********************************************
+28-Nov-20 22:10:33:INFO:Starting Gmail email script...
+28-Nov-20 22:10:33:INFO:Token found.
+28-Nov-20 22:10:33:WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+28-Nov-20 22:10:34:INFO:Using sender as: David Sim<dsim4205@tcusd.net>
+28-Nov-20 22:10:34:INFO:Max rows is: 22and max column is: 4
+28-Nov-20 22:10:34:INFO:Starting on email for: Hailey
+28-Nov-20 22:10:34:INFO:     Draft saved to Google's servers with id: r-1033275596937781641
+28-Nov-20 22:10:34:INFO:Email for Hailey has been successfully sent to hau3725@tcusd.net!
+28-Nov-20 22:10:34:INFO:#####
+28-Nov-20 22:10:34:INFO:Sending email to: Hailey with the address: hau3725@tcusd.net
+28-Nov-20 22:10:34:INFO:With body content:
+Dear Hailey,
+
+We hope you had an amazing and safe Thanksgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be talking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:10:35:INFO:Starting on email for: Adrian
+28-Nov-20 22:10:36:INFO:     Draft saved to Google's servers with id: r225738010917627100
+28-Nov-20 22:10:36:INFO:Email for Adrian has been successfully sent to cchow3786@tcusd.net!
+28-Nov-20 22:10:36:INFO:#####
+28-Nov-20 22:10:36:INFO:Sending email to: Adrian with the address: cchow3786@tcusd.net
+28-Nov-20 22:10:36:INFO:With body content:
+Dear Adrian,
+
+We hope you had an amazing and safe Thanksgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be talking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:10:37:INFO:Starting on email for: My Cat
+28-Nov-20 22:10:37:INFO:     Draft saved to Google's servers with id: r-4187407315060631477
+28-Nov-20 22:10:37:INFO:Email for My Cat has been successfully sent to MDuong0107@tcusd.net!
+28-Nov-20 22:10:37:INFO:#####
+28-Nov-20 22:10:37:INFO:Sending email to: My Cat with the address: MDuong0107@tcusd.net
+28-Nov-20 22:10:37:INFO:With body content:
+Dear My Cat,
+
+We hope you had an amazing and safe Thanksgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be talking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:10:38:INFO:Starting on email for: Kaylee
+28-Nov-20 22:10:39:INFO:     Draft saved to Google's servers with id: r-5361054640382369580
+28-Nov-20 22:10:39:INFO:Email for Kaylee has been successfully sent to keiber4542@tcusd.net!
+28-Nov-20 22:10:39:INFO:#####
+28-Nov-20 22:10:39:INFO:Sending email to: Kaylee with the address: keiber4542@tcusd.net
+28-Nov-20 22:10:39:INFO:With body content:
+Dear Kaylee,
+
+We hope you had an amazing and safe Thanksgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be talking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:10:40:INFO:Starting on email for: Stephanie
+28-Nov-20 22:10:40:INFO:     Draft saved to Google's servers with id: r6913441328970983439
+28-Nov-20 22:10:40:INFO:Email for Stephanie has been successfully sent to xhu2863@tcusd.net!
+28-Nov-20 22:10:40:INFO:#####
+28-Nov-20 22:10:40:INFO:Sending email to: Stephanie with the address: xhu2863@tcusd.net
+28-Nov-20 22:10:40:INFO:With body content:
+Dear Stephanie,
+
+We hope you had an amazing and safe Thanksgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be talking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:10:41:INFO:Starting on email for: Jonathan
+28-Nov-20 22:10:42:INFO:     Draft saved to Google's servers with id: r2459821463356960158
+28-Nov-20 22:10:42:INFO:Email for Jonathan has been successfully sent to jlee4933@tcusd.net!
+28-Nov-20 22:10:42:INFO:#####
+28-Nov-20 22:10:42:INFO:Sending email to: Jonathan with the address: jlee4933@tcusd.net
+28-Nov-20 22:10:42:INFO:With body content:
+Dear Jonathan,
+
+We hope you had an amazing and safe Thanksgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be talking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:10:43:INFO:Starting on email for: Jason
+28-Nov-20 22:10:43:INFO:     Draft saved to Google's servers with id: r-946310719469238445
+28-Nov-20 22:10:43:INFO:Email for Jason has been successfully sent to jlee3440@tcusd.net!
+28-Nov-20 22:10:43:INFO:#####
+28-Nov-20 22:10:43:INFO:Sending email to: Jason with the address: jlee3440@tcusd.net
+28-Nov-20 22:10:43:INFO:With body content:
+Dear Jason,
+
+We hope you had an amazing and safe Thanksgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be talking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:10:44:INFO:Starting on email for: Vicky
+28-Nov-20 22:10:44:INFO:     Draft saved to Google's servers with id: r-9058547333985546929
+28-Nov-20 22:10:44:INFO:Email for Vicky has been successfully sent to wli4135@tcusd.net!
+28-Nov-20 22:10:44:INFO:#####
+28-Nov-20 22:10:44:INFO:Sending email to: Vicky with the address: wli4135@tcusd.net
+28-Nov-20 22:10:44:INFO:With body content:
+Dear Vicky,
+
+We hope you had an amazing and safe Thanksgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be talking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:10:45:INFO:Starting on email for: Jasmine
+28-Nov-20 22:10:46:INFO:     Draft saved to Google's servers with id: r-3582917810879783011
+28-Nov-20 22:10:46:INFO:Email for Jasmine has been successfully sent to jliu2788@tcusd.net!
+28-Nov-20 22:10:46:INFO:#####
+28-Nov-20 22:10:46:INFO:Sending email to: Jasmine with the address: jliu2788@tcusd.net
+28-Nov-20 22:10:46:INFO:With body content:
+Dear Jasmine,
+
+We hope you had an amazing and safe Thanksgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be talking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:10:47:INFO:Starting on email for: Chloe
+28-Nov-20 22:10:47:INFO:     Draft saved to Google's servers with id: r-1180460451245948398
+28-Nov-20 22:10:47:INFO:Email for Chloe has been successfully sent to cluong3964@tcusd.net!
+28-Nov-20 22:10:47:INFO:#####
+28-Nov-20 22:10:47:INFO:Sending email to: Chloe with the address: cluong3964@tcusd.net
+28-Nov-20 22:10:47:INFO:With body content:
+Dear Chloe,
+
+We hope you had an amazing and safe Thanksgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be talking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:10:48:INFO:Starting on email for: Maria
+28-Nov-20 22:10:49:INFO:     Draft saved to Google's servers with id: r-8203377467926655877
+28-Nov-20 22:10:49:INFO:Email for Maria has been successfully sent to moceguera0395@tcusd.net!
+28-Nov-20 22:10:49:INFO:#####
+28-Nov-20 22:10:49:INFO:Sending email to: Maria with the address: moceguera0395@tcusd.net
+28-Nov-20 22:10:49:INFO:With body content:
+Dear Maria,
+
+We hope you had an amazing and safe Thanksgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be talking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:10:50:INFO:Starting on email for: Shanon
+28-Nov-20 22:10:50:INFO:     Draft saved to Google's servers with id: r7654928940187824222
+28-Nov-20 22:10:50:INFO:Email for Shanon has been successfully sent to span4658@tcusd.net!
+28-Nov-20 22:10:50:INFO:#####
+28-Nov-20 22:10:50:INFO:Sending email to: Shanon with the address: span4658@tcusd.net
+28-Nov-20 22:10:50:INFO:With body content:
+Dear Shanon,
+
+We hope you had an amazing and safe Thanksgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be talking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:10:51:INFO:Starting on email for: Allison
+28-Nov-20 22:10:52:INFO:     Draft saved to Google's servers with id: r-5088904687744259366
+28-Nov-20 22:10:52:INFO:Email for Allison has been successfully sent to apan3320@tcusd.net!
+28-Nov-20 22:10:52:INFO:#####
+28-Nov-20 22:10:52:INFO:Sending email to: Allison with the address: apan3320@tcusd.net
+28-Nov-20 22:10:52:INFO:With body content:
+Dear Allison,
+
+We hope you had an amazing and safe Thanksgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be talking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:10:53:INFO:Starting on email for: Kelly
+28-Nov-20 22:10:53:INFO:     Draft saved to Google's servers with id: r9178611806695616619
+28-Nov-20 22:10:53:INFO:Email for Kelly has been successfully sent to kpoplar3228@tcusd.net!
+28-Nov-20 22:10:53:INFO:#####
+28-Nov-20 22:10:53:INFO:Sending email to: Kelly with the address: kpoplar3228@tcusd.net
+28-Nov-20 22:10:53:INFO:With body content:
+Dear Kelly,
+
+We hope you had an amazing and safe Thanksgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be talking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:10:54:INFO:Starting on email for: Jaden
+28-Nov-20 22:10:55:INFO:     Draft saved to Google's servers with id: r8007000046539704729
+28-Nov-20 22:10:55:INFO:Email for Jaden has been successfully sent to jqueron3535@tcusd.net!
+28-Nov-20 22:10:55:INFO:#####
+28-Nov-20 22:10:55:INFO:Sending email to: Jaden with the address: jqueron3535@tcusd.net
+28-Nov-20 22:10:55:INFO:With body content:
+Dear Jaden,
+
+We hope you had an amazing and safe Thanksgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be talking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:10:56:INFO:Starting on email for: Jacqueline 
+28-Nov-20 22:10:56:INFO:     Draft saved to Google's servers with id: r3844984766210409185
+28-Nov-20 22:10:56:INFO:Email for Jacqueline  has been successfully sent to jreyes1686@tcusd.net!
+28-Nov-20 22:10:56:INFO:#####
+28-Nov-20 22:10:56:INFO:Sending email to: Jacqueline  with the address: jreyes1686@tcusd.net
+28-Nov-20 22:10:56:INFO:With body content:
+Dear Jacqueline ,
+
+We hope you had an amazing and safe Thanksgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be talking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:10:57:INFO:Starting on email for: Armita
+28-Nov-20 22:10:58:INFO:     Draft saved to Google's servers with id: r-3044944024677298343
+28-Nov-20 22:10:58:INFO:Email for Armita has been successfully sent to ashadfar3564@tcusd.net!
+28-Nov-20 22:10:58:INFO:#####
+28-Nov-20 22:10:58:INFO:Sending email to: Armita with the address: ashadfar3564@tcusd.net
+28-Nov-20 22:10:58:INFO:With body content:
+Dear Armita,
+
+We hope you had an amazing and safe Thanksgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be talking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:10:59:INFO:Starting on email for: Suraj
+28-Nov-20 22:10:59:INFO:     Draft saved to Google's servers with id: r-1629064466634269486
+28-Nov-20 22:10:59:INFO:Email for Suraj has been successfully sent to sshah4312@tcusd.net!
+28-Nov-20 22:10:59:INFO:#####
+28-Nov-20 22:10:59:INFO:Sending email to: Suraj with the address: sshah4312@tcusd.net
+28-Nov-20 22:10:59:INFO:With body content:
+Dear Suraj,
+
+We hope you had an amazing and safe Thanksgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be talking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:11:00:INFO:Starting on email for: Ashley
+28-Nov-20 22:11:00:INFO:     Draft saved to Google's servers with id: r-7127885556464080490
+28-Nov-20 22:11:00:INFO:Email for Ashley has been successfully sent to atran3552@tcusd.net !
+28-Nov-20 22:11:00:INFO:#####
+28-Nov-20 22:11:00:INFO:Sending email to: Ashley with the address: atran3552@tcusd.net 
+28-Nov-20 22:11:00:INFO:With body content:
+Dear Ashley,
+
+We hope you had an amazing and safe Thanksgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be talking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:11:01:INFO:Starting on email for: Lauren
+28-Nov-20 22:11:02:INFO:     Draft saved to Google's servers with id: r-8873689628598927638
+28-Nov-20 22:11:02:INFO:Email for Lauren has been successfully sent to lyoder2789@tcusd.net!
+28-Nov-20 22:11:02:INFO:#####
+28-Nov-20 22:11:02:INFO:Sending email to: Lauren with the address: lyoder2789@tcusd.net
+28-Nov-20 22:11:02:INFO:With body content:
+Dear Lauren,
+
+We hope you had an amazing and safe Thanksgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be talking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:11:03:INFO:Starting on email for: Anne
+28-Nov-20 22:11:03:INFO:     Draft saved to Google's servers with id: r8973759904723327227
+28-Nov-20 22:11:03:INFO:Email for Anne has been successfully sent to dzhu3885@tcusd.net!
+28-Nov-20 22:11:03:INFO:#####
+28-Nov-20 22:11:03:INFO:Sending email to: Anne with the address: dzhu3885@tcusd.net
+28-Nov-20 22:11:03:INFO:With body content:
+Dear Anne,
+
+We hope you had an amazing and safe Thanksgiving break! 
+As a reminder, we will be having our third Therapy Dog Club meeting next Monday, Dec 7th, at 1 PM. We will be talking all about the stars of our program: Cabby and Lexie!
+
+We will be sending out the zoom information closer to the meeting time.
+
+Thank you for being apart of Therapy Dog Club. We'll see you there next week!
+
+David Sim 
+President - Therapy Dog Club
+
+28-Nov-20 22:11:04:INFO:List has been cycled through. Exiting...

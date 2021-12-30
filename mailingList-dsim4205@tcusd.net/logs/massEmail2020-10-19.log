@@ -1,0 +1,1006 @@
+19-Oct-20 23:11:02:INFO:********************************************
+19-Oct-20 23:11:02:INFO:Starting Gmail email script...
+19-Oct-20 23:11:02:WARNING:SAFEMODE is ON
+19-Oct-20 23:11:02:INFO:Token found.
+19-Oct-20 23:11:02:DEBUG:Toekn inport successful
+19-Oct-20 23:11:02:DEBUG:Token has expired. Refreshing request...
+19-Oct-20 23:11:02:DEBUG:Making request: POST https://oauth2.googleapis.com/token
+19-Oct-20 23:11:02:DEBUG:Starting new HTTPS connection (1): oauth2.googleapis.com:443
+19-Oct-20 23:11:02:DEBUG:https://oauth2.googleapis.com:443 "POST /token HTTP/1.1" 200 None
+19-Oct-20 23:11:02:DEBUG:Token refresh successful.
+19-Oct-20 23:11:02:DEBUG:Saving token...
+19-Oct-20 23:11:02:WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+19-Oct-20 23:11:02:DEBUG:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/gmail/v1/rest
+19-Oct-20 23:11:02:DEBUG:Service build successful!
+19-Oct-20 23:11:03:DEBUG:Sheet found
+19-Oct-20 23:11:03:DEBUG:Using userId: me
+19-Oct-20 23:11:03:INFO:Using sender as: David Sim <dsim4205@tcusd.net>
+19-Oct-20 23:11:03:INFO:Max rows is: 1718
+19-Oct-20 23:11:03:DEBUG:Subject is: Please let me know more
+19-Oct-20 23:11:03:DEBUG:Sending to: info@admissions.acu.edu
+19-Oct-20 23:11:03:DEBUG:Recipient is: Abilene Christian University
+19-Oct-20 23:11:03:INFO:Starting on email for: Abilene Christian University
+19-Oct-20 23:11:03:INFO:Email for Abilene Christian University has been successfully sent to info@admissions.acu.edu!
+19-Oct-20 23:11:03:INFO:#####
+19-Oct-20 23:11:33:INFO:********************************************
+19-Oct-20 23:11:33:INFO:Starting Gmail email script...
+19-Oct-20 23:11:33:WARNING:SAFEMODE is ON
+19-Oct-20 23:11:33:INFO:Token found.
+19-Oct-20 23:11:33:DEBUG:Toekn inport successful
+19-Oct-20 23:11:33:WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+19-Oct-20 23:11:33:DEBUG:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/gmail/v1/rest
+19-Oct-20 23:11:33:DEBUG:Service build successful!
+19-Oct-20 23:11:34:DEBUG:Sheet found
+19-Oct-20 23:11:34:DEBUG:Using userId: me
+19-Oct-20 23:11:34:INFO:Using sender as: David Sim <dsim4205@tcusd.net>
+19-Oct-20 23:11:34:INFO:Max rows is: 1718
+19-Oct-20 23:11:34:DEBUG:Subject is: Please let me know more
+19-Oct-20 23:11:34:DEBUG:Sending to: info@admissions.acu.edu
+19-Oct-20 23:11:34:DEBUG:Recipient is: Abilene Christian University
+19-Oct-20 23:11:34:INFO:Starting on email for: Abilene Christian University
+19-Oct-20 23:11:34:INFO:Email for Abilene Christian University has been successfully sent to info@admissions.acu.edu!
+19-Oct-20 23:11:34:INFO:#####
+19-Oct-20 23:12:17:INFO:********************************************
+19-Oct-20 23:12:17:INFO:Starting Gmail email script...
+19-Oct-20 23:12:17:WARNING:SAFEMODE is ON
+19-Oct-20 23:12:17:INFO:Token found.
+19-Oct-20 23:12:17:DEBUG:Toekn inport successful
+19-Oct-20 23:12:17:WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+19-Oct-20 23:12:17:DEBUG:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/gmail/v1/rest
+19-Oct-20 23:12:17:DEBUG:Service build successful!
+19-Oct-20 23:12:17:DEBUG:Sheet found
+19-Oct-20 23:12:17:DEBUG:Using userId: me
+19-Oct-20 23:12:17:INFO:Using sender as: David Sim <dsim4205@tcusd.net>
+19-Oct-20 23:12:17:INFO:Max rows is: 1718
+19-Oct-20 23:12:17:DEBUG:Subject is: Please let me know more
+19-Oct-20 23:12:17:DEBUG:Sending to: info@admissions.acu.edu
+19-Oct-20 23:12:17:DEBUG:Recipient is: Abilene Christian University
+19-Oct-20 23:12:17:INFO:Starting on email for: Abilene Christian University
+19-Oct-20 23:12:17:INFO:Email for Abilene Christian University has been successfully sent to info@admissions.acu.edu!
+19-Oct-20 23:12:17:INFO:#####
+19-Oct-20 23:12:39:INFO:********************************************
+19-Oct-20 23:12:39:INFO:Starting Gmail email script...
+19-Oct-20 23:12:39:WARNING:SAFEMODE is ON
+19-Oct-20 23:12:39:INFO:Token found.
+19-Oct-20 23:12:39:DEBUG:Toekn inport successful
+19-Oct-20 23:12:39:WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+19-Oct-20 23:12:39:DEBUG:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/gmail/v1/rest
+19-Oct-20 23:12:40:DEBUG:Service build successful!
+19-Oct-20 23:12:40:DEBUG:Sheet found
+19-Oct-20 23:12:40:DEBUG:Using userId: me
+19-Oct-20 23:12:40:INFO:Using sender as: David Sim <dsim4205@tcusd.net>
+19-Oct-20 23:12:40:INFO:Max rows is: 1718
+19-Oct-20 23:12:40:DEBUG:Subject is: Please let me know more
+19-Oct-20 23:12:40:DEBUG:Sending to: info@admissions.acu.edu
+19-Oct-20 23:12:40:DEBUG:Recipient is: Abilene Christian University
+19-Oct-20 23:12:40:INFO:Starting on email for: Abilene Christian University
+19-Oct-20 23:12:40:INFO:Email for Abilene Christian University has been successfully sent to info@admissions.acu.edu!
+19-Oct-20 23:12:40:INFO:#####
+19-Oct-20 23:12:41:DEBUG:Subject is: Please let me know more
+19-Oct-20 23:12:41:DEBUG:Sending to: admissions@academyart.edu
+19-Oct-20 23:12:41:DEBUG:Recipient is: Academy Of Art University
+19-Oct-20 23:12:41:INFO:Starting on email for: Academy Of Art University
+19-Oct-20 23:12:41:INFO:Email for Academy Of Art University has been successfully sent to admissions@academyart.edu!
+19-Oct-20 23:12:41:INFO:#####
+19-Oct-20 23:12:42:DEBUG:Subject is: Please let me know more
+19-Oct-20 23:12:42:DEBUG:Sending to: admissions@acadiau.ca
+19-Oct-20 23:12:42:DEBUG:Recipient is: Acadia University
+19-Oct-20 23:12:42:INFO:Starting on email for: Acadia University
+19-Oct-20 23:12:42:INFO:Email for Acadia University has been successfully sent to admissions@acadiau.ca!
+19-Oct-20 23:12:42:INFO:#####
+19-Oct-20 23:12:43:DEBUG:Subject is: Please let me know more
+19-Oct-20 23:12:43:DEBUG:Sending to: admissions@adams.edu
+19-Oct-20 23:12:43:DEBUG:Recipient is: Adams State University
+19-Oct-20 23:12:43:INFO:Starting on email for: Adams State University
+19-Oct-20 23:12:43:INFO:Email for Adams State University has been successfully sent to admissions@adams.edu!
+19-Oct-20 23:12:43:INFO:#####
+19-Oct-20 23:12:44:DEBUG:Subject is: Please let me know more
+19-Oct-20 23:12:44:DEBUG:Sending to: admissions@adelphi.edu
+19-Oct-20 23:12:44:DEBUG:Recipient is: Adelphi University
+19-Oct-20 23:12:44:INFO:Starting on email for: Adelphi University
+19-Oct-20 23:12:44:INFO:Email for Adelphi University has been successfully sent to admissions@adelphi.edu!
+19-Oct-20 23:12:44:INFO:#####
+19-Oct-20 23:12:45:DEBUG:Subject is: Please let me know more
+19-Oct-20 23:12:45:DEBUG:Sending to: admissions@adrian.edu
+19-Oct-20 23:12:45:DEBUG:Recipient is: Adrian College
+19-Oct-20 23:12:45:INFO:Starting on email for: Adrian College
+19-Oct-20 23:12:45:INFO:Email for Adrian College has been successfully sent to admissions@adrian.edu!
+19-Oct-20 23:12:45:INFO:#####
+19-Oct-20 23:12:46:DEBUG:Subject is: Please let me know more
+19-Oct-20 23:12:46:DEBUG:Sending to: admission@agnesscott.edu
+19-Oct-20 23:12:46:DEBUG:Recipient is: Agnes Scott College
+19-Oct-20 23:12:46:INFO:Starting on email for: Agnes Scott College
+19-Oct-20 23:12:46:INFO:Email for Agnes Scott College has been successfully sent to admission@agnesscott.edu!
+19-Oct-20 23:12:46:INFO:#####
+19-Oct-20 23:12:47:DEBUG:Subject is: Please let me know more
+19-Oct-20 23:12:47:DEBUG:Sending to: admissions@aamu.edu
+19-Oct-20 23:12:47:DEBUG:Recipient is: Alabama Agricultural And Mechanical University
+19-Oct-20 23:12:47:INFO:Starting on email for: Alabama Agricultural And Mechanical University
+19-Oct-20 23:12:47:INFO:Email for Alabama Agricultural And Mechanical University has been successfully sent to admissions@aamu.edu!
+19-Oct-20 23:12:47:INFO:#####
+19-Oct-20 23:12:48:DEBUG:Subject is: Please let me know more
+19-Oct-20 23:12:48:DEBUG:Sending to: admissions@alasu.edu
+19-Oct-20 23:12:48:DEBUG:Recipient is: Alabama State University
+19-Oct-20 23:12:48:INFO:Starting on email for: Alabama State University
+19-Oct-20 23:12:48:INFO:Email for Alabama State University has been successfully sent to admissions@alasu.edu!
+19-Oct-20 23:12:48:INFO:#####
+19-Oct-20 23:16:03:INFO:********************************************
+19-Oct-20 23:16:03:INFO:Starting Gmail email script...
+19-Oct-20 23:16:03:WARNING:SAFEMODE is ON
+19-Oct-20 23:16:03:INFO:Token found.
+19-Oct-20 23:16:03:DEBUG:Toekn inport successful
+19-Oct-20 23:16:03:WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+19-Oct-20 23:16:03:DEBUG:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/gmail/v1/rest
+19-Oct-20 23:16:03:DEBUG:Service build successful!
+19-Oct-20 23:16:03:DEBUG:Sheet found
+19-Oct-20 23:16:03:DEBUG:Using userId: me
+19-Oct-20 23:16:03:INFO:Using sender as: David Sim <dsim4205@tcusd.net>
+19-Oct-20 23:16:03:INFO:Max rows is: 1718
+19-Oct-20 23:16:03:DEBUG:Subject is: Please let me know more
+19-Oct-20 23:16:03:DEBUG:Sending to: info@admissions.acu.edu
+19-Oct-20 23:16:03:DEBUG:Recipient is: Abilene Christian University
+19-Oct-20 23:16:03:INFO:Starting on email for: Abilene Christian University
+19-Oct-20 23:16:03:INFO:Email for Abilene Christian University has been successfully sent to info@admissions.acu.edu!
+19-Oct-20 23:16:03:INFO:#####
+19-Oct-20 23:16:04:DEBUG:Subject is: Please let me know more
+19-Oct-20 23:16:04:DEBUG:Sending to: admissions@academyart.edu
+19-Oct-20 23:16:04:DEBUG:Recipient is: Academy Of Art University
+19-Oct-20 23:16:04:INFO:Starting on email for: Academy Of Art University
+19-Oct-20 23:16:04:INFO:Email for Academy Of Art University has been successfully sent to admissions@academyart.edu!
+19-Oct-20 23:16:04:INFO:#####
+19-Oct-20 23:16:05:DEBUG:Subject is: Please let me know more
+19-Oct-20 23:16:05:DEBUG:Sending to: admissions@acadiau.ca
+19-Oct-20 23:16:05:DEBUG:Recipient is: Acadia University
+19-Oct-20 23:16:05:INFO:Starting on email for: Acadia University
+19-Oct-20 23:16:05:INFO:Email for Acadia University has been successfully sent to admissions@acadiau.ca!
+19-Oct-20 23:16:05:INFO:#####
+19-Oct-20 23:16:06:DEBUG:Subject is: Please let me know more
+19-Oct-20 23:16:06:DEBUG:Sending to: admissions@adams.edu
+19-Oct-20 23:16:06:DEBUG:Recipient is: Adams State University
+19-Oct-20 23:16:06:INFO:Starting on email for: Adams State University
+19-Oct-20 23:16:06:INFO:Email for Adams State University has been successfully sent to admissions@adams.edu!
+19-Oct-20 23:16:06:INFO:#####
+19-Oct-20 23:16:07:DEBUG:Subject is: Please let me know more
+19-Oct-20 23:16:07:DEBUG:Sending to: admissions@adelphi.edu
+19-Oct-20 23:16:07:DEBUG:Recipient is: Adelphi University
+19-Oct-20 23:16:07:INFO:Starting on email for: Adelphi University
+19-Oct-20 23:16:07:INFO:Email for Adelphi University has been successfully sent to admissions@adelphi.edu!
+19-Oct-20 23:16:07:INFO:#####
+19-Oct-20 23:16:08:DEBUG:Subject is: Please let me know more
+19-Oct-20 23:16:08:DEBUG:Sending to: admissions@adrian.edu
+19-Oct-20 23:16:08:DEBUG:Recipient is: Adrian College
+19-Oct-20 23:16:08:INFO:Starting on email for: Adrian College
+19-Oct-20 23:16:08:INFO:Email for Adrian College has been successfully sent to admissions@adrian.edu!
+19-Oct-20 23:16:08:INFO:#####
+19-Oct-20 23:16:09:DEBUG:Subject is: Please let me know more
+19-Oct-20 23:16:09:DEBUG:Sending to: admission@agnesscott.edu
+19-Oct-20 23:16:09:DEBUG:Recipient is: Agnes Scott College
+19-Oct-20 23:16:09:INFO:Starting on email for: Agnes Scott College
+19-Oct-20 23:16:09:INFO:Email for Agnes Scott College has been successfully sent to admission@agnesscott.edu!
+19-Oct-20 23:16:09:INFO:#####
+19-Oct-20 23:16:10:DEBUG:Subject is: Please let me know more
+19-Oct-20 23:16:10:DEBUG:Sending to: admissions@aamu.edu
+19-Oct-20 23:16:10:DEBUG:Recipient is: Alabama Agricultural And Mechanical University
+19-Oct-20 23:16:10:INFO:Starting on email for: Alabama Agricultural And Mechanical University
+19-Oct-20 23:16:10:INFO:Email for Alabama Agricultural And Mechanical University has been successfully sent to admissions@aamu.edu!
+19-Oct-20 23:16:10:INFO:#####
+19-Oct-20 23:16:11:DEBUG:Subject is: Please let me know more
+19-Oct-20 23:16:11:DEBUG:Sending to: admissions@alasu.edu
+19-Oct-20 23:16:11:DEBUG:Recipient is: Alabama State University
+19-Oct-20 23:16:11:INFO:Starting on email for: Alabama State University
+19-Oct-20 23:16:11:INFO:Email for Alabama State University has been successfully sent to admissions@alasu.edu!
+19-Oct-20 23:16:11:INFO:#####
+19-Oct-20 23:16:12:CRITICAL:Max email limit reached. Exiting...
+19-Oct-20 23:20:30:INFO:********************************************
+19-Oct-20 23:20:30:INFO:Starting Gmail email script...
+19-Oct-20 23:20:30:WARNING:SAFEMODE is ON
+19-Oct-20 23:20:30:INFO:Token found.
+19-Oct-20 23:20:30:DEBUG:Toekn inport successful
+19-Oct-20 23:20:30:WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+19-Oct-20 23:20:30:DEBUG:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/gmail/v1/rest
+19-Oct-20 23:20:30:DEBUG:Service build successful!
+19-Oct-20 23:20:30:DEBUG:Sheet found
+19-Oct-20 23:20:30:DEBUG:Using userId: me
+19-Oct-20 23:20:30:INFO:Using sender as: David Sim <dsim4205@tcusd.net>
+19-Oct-20 23:20:30:INFO:Max rows is: 1718
+19-Oct-20 23:20:30:DEBUG:Subject is: Please let me know more
+19-Oct-20 23:20:30:DEBUG:Sending to: info@admissions.acu.edu
+19-Oct-20 23:20:30:DEBUG:Recipient is: Abilene Christian University
+19-Oct-20 23:20:30:INFO:Starting on email for: Abilene Christian University
+19-Oct-20 23:20:30:INFO:Email for Abilene Christian University has been successfully sent to info@admissions.acu.edu!
+19-Oct-20 23:20:30:INFO:#####
+19-Oct-20 23:20:31:DEBUG:Subject is: Please let me know more
+19-Oct-20 23:20:31:DEBUG:Sending to: admissions@academyart.edu
+19-Oct-20 23:20:31:DEBUG:Recipient is: Academy Of Art University
+19-Oct-20 23:20:31:INFO:Starting on email for: Academy Of Art University
+19-Oct-20 23:20:31:INFO:Email for Academy Of Art University has been successfully sent to admissions@academyart.edu!
+19-Oct-20 23:20:31:INFO:#####
+19-Oct-20 23:20:32:DEBUG:Subject is: Please let me know more
+19-Oct-20 23:20:32:DEBUG:Sending to: admissions@acadiau.ca
+19-Oct-20 23:20:32:DEBUG:Recipient is: Acadia University
+19-Oct-20 23:20:32:INFO:Starting on email for: Acadia University
+19-Oct-20 23:20:32:INFO:Email for Acadia University has been successfully sent to admissions@acadiau.ca!
+19-Oct-20 23:20:32:INFO:#####
+19-Oct-20 23:20:33:DEBUG:Subject is: Please let me know more
+19-Oct-20 23:20:33:DEBUG:Sending to: admissions@adams.edu
+19-Oct-20 23:20:33:DEBUG:Recipient is: Adams State University
+19-Oct-20 23:20:33:INFO:Starting on email for: Adams State University
+19-Oct-20 23:20:33:INFO:Email for Adams State University has been successfully sent to admissions@adams.edu!
+19-Oct-20 23:20:33:INFO:#####
+19-Oct-20 23:20:34:DEBUG:Subject is: Please let me know more
+19-Oct-20 23:20:34:DEBUG:Sending to: admissions@adelphi.edu
+19-Oct-20 23:20:34:DEBUG:Recipient is: Adelphi University
+19-Oct-20 23:20:34:INFO:Starting on email for: Adelphi University
+19-Oct-20 23:20:34:INFO:Email for Adelphi University has been successfully sent to admissions@adelphi.edu!
+19-Oct-20 23:20:34:INFO:#####
+19-Oct-20 23:20:36:DEBUG:Subject is: Please let me know more
+19-Oct-20 23:20:36:DEBUG:Sending to: admissions@adrian.edu
+19-Oct-20 23:20:36:DEBUG:Recipient is: Adrian College
+19-Oct-20 23:20:36:INFO:Starting on email for: Adrian College
+19-Oct-20 23:20:36:INFO:Email for Adrian College has been successfully sent to admissions@adrian.edu!
+19-Oct-20 23:20:36:INFO:#####
+19-Oct-20 23:20:37:DEBUG:Subject is: Please let me know more
+19-Oct-20 23:20:37:DEBUG:Sending to: admission@agnesscott.edu
+19-Oct-20 23:20:37:DEBUG:Recipient is: Agnes Scott College
+19-Oct-20 23:20:37:INFO:Starting on email for: Agnes Scott College
+19-Oct-20 23:20:37:INFO:Email for Agnes Scott College has been successfully sent to admission@agnesscott.edu!
+19-Oct-20 23:20:37:INFO:#####
+19-Oct-20 23:20:38:DEBUG:Subject is: Please let me know more
+19-Oct-20 23:20:38:DEBUG:Sending to: admissions@aamu.edu
+19-Oct-20 23:20:38:DEBUG:Recipient is: Alabama Agricultural And Mechanical University
+19-Oct-20 23:20:38:INFO:Starting on email for: Alabama Agricultural And Mechanical University
+19-Oct-20 23:20:38:INFO:Email for Alabama Agricultural And Mechanical University has been successfully sent to admissions@aamu.edu!
+19-Oct-20 23:20:38:INFO:#####
+19-Oct-20 23:20:39:DEBUG:Subject is: Please let me know more
+19-Oct-20 23:20:39:DEBUG:Sending to: admissions@alasu.edu
+19-Oct-20 23:20:39:DEBUG:Recipient is: Alabama State University
+19-Oct-20 23:20:39:INFO:Starting on email for: Alabama State University
+19-Oct-20 23:20:39:INFO:Email for Alabama State University has been successfully sent to admissions@alasu.edu!
+19-Oct-20 23:20:39:INFO:#####
+19-Oct-20 23:20:40:CRITICAL:Max email limit reached. Exiting...
+19-Oct-20 23:40:20:INFO:********************************************
+19-Oct-20 23:40:20:INFO:Starting Gmail email script...
+19-Oct-20 23:40:20:WARNING:SAFEMODE is ON
+19-Oct-20 23:40:20:INFO:Token found.
+19-Oct-20 23:40:20:DEBUG:Toekn inport successful
+19-Oct-20 23:40:20:WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+19-Oct-20 23:40:20:DEBUG:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/gmail/v1/rest
+19-Oct-20 23:40:20:DEBUG:Service build successful!
+19-Oct-20 23:40:21:DEBUG:Sheet found
+19-Oct-20 23:40:21:DEBUG:Using userId: me
+19-Oct-20 23:40:21:INFO:Using sender as: David Sim <dsim4205@tcusd.net>
+19-Oct-20 23:40:21:DEBUG:Subject is: Please let me know more
+19-Oct-20 23:40:21:INFO:Max rows is: 1718
+19-Oct-20 23:40:21:DEBUG:Recipient is: Abilene Christian University
+19-Oct-20 23:40:21:DEBUG:Sending to: info@admissions.acu.edu
+19-Oct-20 23:40:21:INFO:Starting on email for: Abilene Christian University
+19-Oct-20 23:40:21:INFO:Email for Abilene Christian University has been successfully sent to info@admissions.acu.edu!
+19-Oct-20 23:40:21:INFO:#####
+19-Oct-20 23:40:22:DEBUG:Recipient is: Academy Of Art University
+19-Oct-20 23:40:22:DEBUG:Sending to: admissions@academyart.edu
+19-Oct-20 23:40:22:INFO:Starting on email for: Academy Of Art University
+19-Oct-20 23:40:22:INFO:Email for Academy Of Art University has been successfully sent to admissions@academyart.edu!
+19-Oct-20 23:40:22:INFO:#####
+19-Oct-20 23:40:23:DEBUG:Recipient is: Acadia University
+19-Oct-20 23:40:23:DEBUG:Sending to: admissions@acadiau.ca
+19-Oct-20 23:40:23:INFO:Starting on email for: Acadia University
+19-Oct-20 23:40:23:INFO:Email for Acadia University has been successfully sent to admissions@acadiau.ca!
+19-Oct-20 23:40:23:INFO:#####
+19-Oct-20 23:40:24:DEBUG:Recipient is: Adams State University
+19-Oct-20 23:40:24:DEBUG:Sending to: admissions@adams.edu
+19-Oct-20 23:40:24:INFO:Starting on email for: Adams State University
+19-Oct-20 23:40:24:INFO:Email for Adams State University has been successfully sent to admissions@adams.edu!
+19-Oct-20 23:40:24:INFO:#####
+19-Oct-20 23:40:25:DEBUG:Recipient is: Adelphi University
+19-Oct-20 23:40:25:DEBUG:Sending to: admissions@adelphi.edu
+19-Oct-20 23:40:25:INFO:Starting on email for: Adelphi University
+19-Oct-20 23:40:25:INFO:Email for Adelphi University has been successfully sent to admissions@adelphi.edu!
+19-Oct-20 23:40:25:INFO:#####
+19-Oct-20 23:40:26:DEBUG:Recipient is: Adrian College
+19-Oct-20 23:40:26:DEBUG:Sending to: admissions@adrian.edu
+19-Oct-20 23:40:26:INFO:Starting on email for: Adrian College
+19-Oct-20 23:40:26:INFO:Email for Adrian College has been successfully sent to admissions@adrian.edu!
+19-Oct-20 23:40:26:INFO:#####
+19-Oct-20 23:40:27:DEBUG:Recipient is: Agnes Scott College
+19-Oct-20 23:40:27:DEBUG:Sending to: admission@agnesscott.edu
+19-Oct-20 23:40:27:INFO:Starting on email for: Agnes Scott College
+19-Oct-20 23:40:27:INFO:Email for Agnes Scott College has been successfully sent to admission@agnesscott.edu!
+19-Oct-20 23:40:27:INFO:#####
+19-Oct-20 23:40:28:DEBUG:Recipient is: Alabama Agricultural And Mechanical University
+19-Oct-20 23:40:28:DEBUG:Sending to: admissions@aamu.edu
+19-Oct-20 23:40:28:INFO:Starting on email for: Alabama Agricultural And Mechanical University
+19-Oct-20 23:40:28:INFO:Email for Alabama Agricultural And Mechanical University has been successfully sent to admissions@aamu.edu!
+19-Oct-20 23:40:28:INFO:#####
+19-Oct-20 23:40:29:DEBUG:Recipient is: Alabama State University
+19-Oct-20 23:40:29:DEBUG:Sending to: admissions@alasu.edu
+19-Oct-20 23:40:29:INFO:Starting on email for: Alabama State University
+19-Oct-20 23:40:29:INFO:Email for Alabama State University has been successfully sent to admissions@alasu.edu!
+19-Oct-20 23:40:29:INFO:#####
+19-Oct-20 23:40:30:CRITICAL:Max email limit reached. Exiting...
+19-Oct-20 23:41:27:INFO:********************************************
+19-Oct-20 23:41:27:INFO:Starting Gmail email script...
+19-Oct-20 23:41:27:WARNING:SAFEMODE is ON
+19-Oct-20 23:41:27:INFO:Token found.
+19-Oct-20 23:41:27:DEBUG:Toekn inport successful
+19-Oct-20 23:41:27:WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+19-Oct-20 23:41:27:DEBUG:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/gmail/v1/rest
+19-Oct-20 23:41:27:DEBUG:Service build successful!
+19-Oct-20 23:41:27:DEBUG:Sheet found
+19-Oct-20 23:41:27:DEBUG:Using userId: me
+19-Oct-20 23:41:27:INFO:Using sender as: David Sim <dsim4205@tcusd.net>
+19-Oct-20 23:41:27:DEBUG:Subject is: Please let me know more
+19-Oct-20 23:41:27:INFO:Max rows is: 1718
+19-Oct-20 23:41:27:DEBUG:Recipient is: Abilene Christian University
+19-Oct-20 23:41:27:DEBUG:Sending to: info@admissions.acu.edu
+19-Oct-20 23:41:27:INFO:Starting on email for: Abilene Christian University
+19-Oct-20 23:41:27:INFO:Email for Abilene Christian University has been successfully sent to info@admissions.acu.edu!
+19-Oct-20 23:41:27:INFO:#####
+19-Oct-20 23:41:56:INFO:********************************************
+19-Oct-20 23:41:56:INFO:Starting Gmail email script...
+19-Oct-20 23:41:56:WARNING:SAFEMODE is ON
+19-Oct-20 23:41:56:INFO:Token found.
+19-Oct-20 23:41:56:DEBUG:Toekn inport successful
+19-Oct-20 23:41:56:WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+19-Oct-20 23:41:56:DEBUG:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/gmail/v1/rest
+19-Oct-20 23:41:56:DEBUG:Service build successful!
+19-Oct-20 23:41:56:DEBUG:Sheet found
+19-Oct-20 23:41:56:DEBUG:Using userId: me
+19-Oct-20 23:41:56:INFO:Using sender as: David Sim <dsim4205@tcusd.net>
+19-Oct-20 23:41:56:DEBUG:Subject is: Please let me know more
+19-Oct-20 23:41:56:INFO:Max rows is: 1718
+19-Oct-20 23:41:56:DEBUG:Recipient is: Abilene Christian University
+19-Oct-20 23:41:56:DEBUG:Sending to: info@admissions.acu.edu
+19-Oct-20 23:41:56:INFO:Starting on email for: Abilene Christian University
+19-Oct-20 23:41:56:INFO:Email for Abilene Christian University has been successfully sent to info@admissions.acu.edu!
+19-Oct-20 23:41:56:INFO:#####
+19-Oct-20 23:41:57:DEBUG:Recipient is: Academy Of Art University
+19-Oct-20 23:41:57:DEBUG:Sending to: admissions@academyart.edu
+19-Oct-20 23:41:57:INFO:Starting on email for: Academy Of Art University
+19-Oct-20 23:41:57:INFO:Email for Academy Of Art University has been successfully sent to admissions@academyart.edu!
+19-Oct-20 23:41:57:INFO:#####
+19-Oct-20 23:41:58:DEBUG:Recipient is: Acadia University
+19-Oct-20 23:41:58:DEBUG:Sending to: admissions@acadiau.ca
+19-Oct-20 23:41:58:INFO:Starting on email for: Acadia University
+19-Oct-20 23:41:58:INFO:Email for Acadia University has been successfully sent to admissions@acadiau.ca!
+19-Oct-20 23:41:58:INFO:#####
+19-Oct-20 23:41:59:DEBUG:Recipient is: Adams State University
+19-Oct-20 23:41:59:DEBUG:Sending to: admissions@adams.edu
+19-Oct-20 23:41:59:INFO:Starting on email for: Adams State University
+19-Oct-20 23:41:59:INFO:Email for Adams State University has been successfully sent to admissions@adams.edu!
+19-Oct-20 23:41:59:INFO:#####
+19-Oct-20 23:42:00:DEBUG:Recipient is: Adelphi University
+19-Oct-20 23:42:00:DEBUG:Sending to: admissions@adelphi.edu
+19-Oct-20 23:42:00:INFO:Starting on email for: Adelphi University
+19-Oct-20 23:42:00:INFO:Email for Adelphi University has been successfully sent to admissions@adelphi.edu!
+19-Oct-20 23:42:00:INFO:#####
+19-Oct-20 23:42:01:DEBUG:Recipient is: Adrian College
+19-Oct-20 23:42:01:DEBUG:Sending to: admissions@adrian.edu
+19-Oct-20 23:42:01:INFO:Starting on email for: Adrian College
+19-Oct-20 23:42:01:INFO:Email for Adrian College has been successfully sent to admissions@adrian.edu!
+19-Oct-20 23:42:01:INFO:#####
+19-Oct-20 23:42:02:DEBUG:Recipient is: Agnes Scott College
+19-Oct-20 23:42:02:DEBUG:Sending to: admission@agnesscott.edu
+19-Oct-20 23:42:02:INFO:Starting on email for: Agnes Scott College
+19-Oct-20 23:42:02:INFO:Email for Agnes Scott College has been successfully sent to admission@agnesscott.edu!
+19-Oct-20 23:42:02:INFO:#####
+19-Oct-20 23:42:03:DEBUG:Recipient is: Alabama Agricultural And Mechanical University
+19-Oct-20 23:42:03:DEBUG:Sending to: admissions@aamu.edu
+19-Oct-20 23:42:03:INFO:Starting on email for: Alabama Agricultural And Mechanical University
+19-Oct-20 23:42:03:INFO:Email for Alabama Agricultural And Mechanical University has been successfully sent to admissions@aamu.edu!
+19-Oct-20 23:42:03:INFO:#####
+19-Oct-20 23:42:04:DEBUG:Recipient is: Alabama State University
+19-Oct-20 23:42:04:DEBUG:Sending to: admissions@alasu.edu
+19-Oct-20 23:42:04:INFO:Starting on email for: Alabama State University
+19-Oct-20 23:42:04:INFO:Email for Alabama State University has been successfully sent to admissions@alasu.edu!
+19-Oct-20 23:42:04:INFO:#####
+19-Oct-20 23:42:05:CRITICAL:Max email limit reached. Exiting...
+19-Oct-20 23:45:11:INFO:********************************************
+19-Oct-20 23:45:11:INFO:Starting Gmail email script...
+19-Oct-20 23:45:11:WARNING:SAFEMODE is ON
+19-Oct-20 23:45:11:INFO:Token found.
+19-Oct-20 23:45:11:DEBUG:Toekn inport successful
+19-Oct-20 23:45:11:WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+19-Oct-20 23:45:11:DEBUG:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/gmail/v1/rest
+19-Oct-20 23:45:11:DEBUG:Service build successful!
+19-Oct-20 23:45:11:DEBUG:Sheet found
+19-Oct-20 23:45:11:DEBUG:Using userId: me
+19-Oct-20 23:45:11:INFO:Using sender as: David Sim <dsim4205@tcusd.net>
+19-Oct-20 23:45:11:DEBUG:Subject is: Please let me know more
+19-Oct-20 23:45:11:INFO:Max rows is: 1718
+19-Oct-20 23:45:11:DEBUG:Recipient is: Abilene Christian University
+19-Oct-20 23:45:11:DEBUG:Sending to: info@admissions.acu.edu
+19-Oct-20 23:45:11:INFO:Starting on email for: Abilene Christian University
+19-Oct-20 23:45:11:INFO:Email for Abilene Christian University has been successfully sent to info@admissions.acu.edu!
+19-Oct-20 23:45:11:INFO:#####
+19-Oct-20 23:45:12:DEBUG:Recipient is: Academy Of Art University
+19-Oct-20 23:45:12:DEBUG:Sending to: admissions@academyart.edu
+19-Oct-20 23:45:12:INFO:Starting on email for: Academy Of Art University
+19-Oct-20 23:45:12:INFO:Email for Academy Of Art University has been successfully sent to admissions@academyart.edu!
+19-Oct-20 23:45:12:INFO:#####
+19-Oct-20 23:45:13:DEBUG:Recipient is: Acadia University
+19-Oct-20 23:45:13:DEBUG:Sending to: admissions@acadiau.ca
+19-Oct-20 23:45:13:INFO:Starting on email for: Acadia University
+19-Oct-20 23:45:13:INFO:Email for Acadia University has been successfully sent to admissions@acadiau.ca!
+19-Oct-20 23:45:13:INFO:#####
+19-Oct-20 23:45:14:DEBUG:Recipient is: Adams State University
+19-Oct-20 23:45:14:DEBUG:Sending to: admissions@adams.edu
+19-Oct-20 23:45:14:INFO:Starting on email for: Adams State University
+19-Oct-20 23:45:14:INFO:Email for Adams State University has been successfully sent to admissions@adams.edu!
+19-Oct-20 23:45:14:INFO:#####
+19-Oct-20 23:45:15:DEBUG:Recipient is: Adelphi University
+19-Oct-20 23:45:15:DEBUG:Sending to: admissions@adelphi.edu
+19-Oct-20 23:45:15:INFO:Starting on email for: Adelphi University
+19-Oct-20 23:45:15:INFO:Email for Adelphi University has been successfully sent to admissions@adelphi.edu!
+19-Oct-20 23:45:15:INFO:#####
+19-Oct-20 23:45:16:DEBUG:Recipient is: Adrian College
+19-Oct-20 23:45:16:DEBUG:Sending to: admissions@adrian.edu
+19-Oct-20 23:45:16:INFO:Starting on email for: Adrian College
+19-Oct-20 23:45:16:INFO:Email for Adrian College has been successfully sent to admissions@adrian.edu!
+19-Oct-20 23:45:16:INFO:#####
+19-Oct-20 23:45:17:DEBUG:Recipient is: Agnes Scott College
+19-Oct-20 23:45:17:DEBUG:Sending to: admission@agnesscott.edu
+19-Oct-20 23:45:17:INFO:Starting on email for: Agnes Scott College
+19-Oct-20 23:45:17:INFO:Email for Agnes Scott College has been successfully sent to admission@agnesscott.edu!
+19-Oct-20 23:45:17:INFO:#####
+19-Oct-20 23:45:18:DEBUG:Recipient is: Alabama Agricultural And Mechanical University
+19-Oct-20 23:45:18:DEBUG:Sending to: admissions@aamu.edu
+19-Oct-20 23:45:18:INFO:Starting on email for: Alabama Agricultural And Mechanical University
+19-Oct-20 23:45:18:INFO:Email for Alabama Agricultural And Mechanical University has been successfully sent to admissions@aamu.edu!
+19-Oct-20 23:45:18:INFO:#####
+19-Oct-20 23:45:19:DEBUG:Recipient is: Alabama State University
+19-Oct-20 23:45:19:DEBUG:Sending to: admissions@alasu.edu
+19-Oct-20 23:45:19:INFO:Starting on email for: Alabama State University
+19-Oct-20 23:45:19:INFO:Email for Alabama State University has been successfully sent to admissions@alasu.edu!
+19-Oct-20 23:45:19:INFO:#####
+19-Oct-20 23:45:20:CRITICAL:Max email limit reached. Exiting...
+19-Oct-20 23:46:13:INFO:********************************************
+19-Oct-20 23:46:13:INFO:Starting Gmail email script...
+19-Oct-20 23:46:13:WARNING:SAFEMODE is ON
+19-Oct-20 23:46:13:INFO:Token found.
+19-Oct-20 23:46:13:DEBUG:Toekn inport successful
+19-Oct-20 23:46:13:WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+19-Oct-20 23:46:13:DEBUG:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/gmail/v1/rest
+19-Oct-20 23:46:13:DEBUG:Service build successful!
+19-Oct-20 23:46:13:DEBUG:Sheet found
+19-Oct-20 23:46:13:DEBUG:Using userId: me
+19-Oct-20 23:46:13:INFO:Using sender as: David Sim <dsim4205@tcusd.net>
+19-Oct-20 23:46:13:DEBUG:Subject is: Please let me know more
+19-Oct-20 23:46:13:INFO:Max rows is: 1718
+19-Oct-20 23:46:13:DEBUG:Recipient is: Abilene Christian University
+19-Oct-20 23:46:13:DEBUG:Sending to: info@admissions.acu.edu
+19-Oct-20 23:46:13:INFO:Starting on email for: Abilene Christian University
+19-Oct-20 23:46:13:INFO:Email for Abilene Christian University has been successfully sent to info@admissions.acu.edu!
+19-Oct-20 23:46:13:INFO:#####
+19-Oct-20 23:46:14:DEBUG:Recipient is: Academy Of Art University
+19-Oct-20 23:46:14:DEBUG:Sending to: admissions@academyart.edu
+19-Oct-20 23:46:14:INFO:Starting on email for: Academy Of Art University
+19-Oct-20 23:46:14:INFO:Email for Academy Of Art University has been successfully sent to admissions@academyart.edu!
+19-Oct-20 23:46:14:INFO:#####
+19-Oct-20 23:46:15:DEBUG:Recipient is: Acadia University
+19-Oct-20 23:46:15:DEBUG:Sending to: admissions@acadiau.ca
+19-Oct-20 23:46:15:INFO:Starting on email for: Acadia University
+19-Oct-20 23:46:15:INFO:Email for Acadia University has been successfully sent to admissions@acadiau.ca!
+19-Oct-20 23:46:15:INFO:#####
+19-Oct-20 23:46:16:DEBUG:Recipient is: Adams State University
+19-Oct-20 23:46:16:DEBUG:Sending to: admissions@adams.edu
+19-Oct-20 23:46:16:INFO:Starting on email for: Adams State University
+19-Oct-20 23:46:16:INFO:Email for Adams State University has been successfully sent to admissions@adams.edu!
+19-Oct-20 23:46:16:INFO:#####
+19-Oct-20 23:46:17:DEBUG:Recipient is: Adelphi University
+19-Oct-20 23:46:17:DEBUG:Sending to: admissions@adelphi.edu
+19-Oct-20 23:46:17:INFO:Starting on email for: Adelphi University
+19-Oct-20 23:46:17:INFO:Email for Adelphi University has been successfully sent to admissions@adelphi.edu!
+19-Oct-20 23:46:17:INFO:#####
+19-Oct-20 23:46:18:DEBUG:Recipient is: Adrian College
+19-Oct-20 23:46:18:DEBUG:Sending to: admissions@adrian.edu
+19-Oct-20 23:46:18:INFO:Starting on email for: Adrian College
+19-Oct-20 23:46:18:INFO:Email for Adrian College has been successfully sent to admissions@adrian.edu!
+19-Oct-20 23:46:18:INFO:#####
+19-Oct-20 23:46:19:DEBUG:Recipient is: Agnes Scott College
+19-Oct-20 23:46:19:DEBUG:Sending to: admission@agnesscott.edu
+19-Oct-20 23:46:19:INFO:Starting on email for: Agnes Scott College
+19-Oct-20 23:46:19:INFO:Email for Agnes Scott College has been successfully sent to admission@agnesscott.edu!
+19-Oct-20 23:46:19:INFO:#####
+19-Oct-20 23:46:20:DEBUG:Recipient is: Alabama Agricultural And Mechanical University
+19-Oct-20 23:46:20:DEBUG:Sending to: admissions@aamu.edu
+19-Oct-20 23:46:20:INFO:Starting on email for: Alabama Agricultural And Mechanical University
+19-Oct-20 23:46:20:INFO:Email for Alabama Agricultural And Mechanical University has been successfully sent to admissions@aamu.edu!
+19-Oct-20 23:46:20:INFO:#####
+19-Oct-20 23:46:21:DEBUG:Recipient is: Alabama State University
+19-Oct-20 23:46:21:DEBUG:Sending to: admissions@alasu.edu
+19-Oct-20 23:46:21:INFO:Starting on email for: Alabama State University
+19-Oct-20 23:46:21:INFO:Email for Alabama State University has been successfully sent to admissions@alasu.edu!
+19-Oct-20 23:46:21:INFO:#####
+19-Oct-20 23:46:22:CRITICAL:Max email limit reached. Exiting...
+19-Oct-20 23:50:23:INFO:********************************************
+19-Oct-20 23:50:23:INFO:Starting Gmail email script...
+19-Oct-20 23:50:23:WARNING:SAFEMODE is ON
+19-Oct-20 23:50:23:INFO:Token found.
+19-Oct-20 23:50:23:DEBUG:Toekn inport successful
+19-Oct-20 23:50:23:WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+19-Oct-20 23:50:23:DEBUG:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/gmail/v1/rest
+19-Oct-20 23:50:23:DEBUG:Service build successful!
+19-Oct-20 23:50:23:DEBUG:Sheet found
+19-Oct-20 23:50:23:DEBUG:Using userId: me
+19-Oct-20 23:50:23:INFO:Using sender as: David Sim <dsim4205@tcusd.net>
+19-Oct-20 23:50:23:DEBUG:Subject is: Please let me know more
+19-Oct-20 23:50:23:INFO:Max rows is: 1718
+19-Oct-20 23:50:23:DEBUG:Recipient is: Abilene Christian University
+19-Oct-20 23:50:23:DEBUG:Sending to: info@admissions.acu.edu
+19-Oct-20 23:50:23:INFO:Starting on email for: Abilene Christian University
+19-Oct-20 23:50:23:INFO:Email for Abilene Christian University has been successfully sent to info@admissions.acu.edu!
+19-Oct-20 23:50:23:INFO:#####
+19-Oct-20 23:51:57:INFO:********************************************
+19-Oct-20 23:51:57:INFO:Starting Gmail email script...
+19-Oct-20 23:51:57:WARNING:SAFEMODE is ON
+19-Oct-20 23:51:57:INFO:Token found.
+19-Oct-20 23:51:57:DEBUG:Toekn inport successful
+19-Oct-20 23:51:57:WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+19-Oct-20 23:51:57:DEBUG:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/gmail/v1/rest
+19-Oct-20 23:51:57:DEBUG:Service build successful!
+19-Oct-20 23:51:57:DEBUG:Sheet found
+19-Oct-20 23:51:57:DEBUG:Using userId: me
+19-Oct-20 23:51:57:INFO:Using sender as: David Sim <dsim4205@tcusd.net>
+19-Oct-20 23:51:57:DEBUG:Subject is: Please let me know more
+19-Oct-20 23:51:57:INFO:Max rows is: 1718
+19-Oct-20 23:51:57:DEBUG:Recipient is: Abilene Christian University
+19-Oct-20 23:51:57:DEBUG:Sending to: info@admissions.acu.edu
+19-Oct-20 23:51:57:INFO:Starting on email for: Abilene Christian University
+19-Oct-20 23:51:57:INFO:Email for Abilene Christian University has been successfully sent to info@admissions.acu.edu!
+19-Oct-20 23:51:57:INFO:#####
+19-Oct-20 23:55:11:INFO:********************************************
+19-Oct-20 23:55:11:INFO:Starting Gmail email script...
+19-Oct-20 23:55:11:WARNING:SAFEMODE is ON
+19-Oct-20 23:55:11:INFO:Token found.
+19-Oct-20 23:55:11:DEBUG:Toekn inport successful
+19-Oct-20 23:55:11:WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+19-Oct-20 23:55:11:DEBUG:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/gmail/v1/rest
+19-Oct-20 23:55:11:DEBUG:Service build successful!
+19-Oct-20 23:55:11:DEBUG:Sheet found
+19-Oct-20 23:55:11:DEBUG:Using userId: me
+19-Oct-20 23:55:11:INFO:Using sender as: David Sim <dsim4205@tcusd.net>
+19-Oct-20 23:55:11:DEBUG:Subject is: Please let me know more
+19-Oct-20 23:55:11:INFO:Max rows is: 1718
+19-Oct-20 23:55:11:DEBUG:Recipient is: Abilene Christian University
+19-Oct-20 23:55:11:DEBUG:Sending to: info@admissions.acu.edu
+19-Oct-20 23:55:11:INFO:Starting on email for: Abilene Christian University
+19-Oct-20 23:55:11:INFO:Email for Abilene Christian University has been successfully sent to info@admissions.acu.edu!
+19-Oct-20 23:55:11:INFO:#####
+19-Oct-20 23:55:24:INFO:********************************************
+19-Oct-20 23:55:24:INFO:Starting Gmail email script...
+19-Oct-20 23:55:24:WARNING:SAFEMODE is ON
+19-Oct-20 23:55:24:INFO:Token found.
+19-Oct-20 23:55:24:DEBUG:Toekn inport successful
+19-Oct-20 23:55:24:WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+19-Oct-20 23:55:24:DEBUG:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/gmail/v1/rest
+19-Oct-20 23:55:24:DEBUG:Service build successful!
+19-Oct-20 23:55:24:DEBUG:Sheet found
+19-Oct-20 23:55:24:DEBUG:Using userId: me
+19-Oct-20 23:55:24:INFO:Using sender as: David Sim <dsim4205@tcusd.net>
+19-Oct-20 23:55:24:DEBUG:Subject is: Please let me know more
+19-Oct-20 23:55:24:INFO:Max rows is: 1718
+19-Oct-20 23:55:24:DEBUG:Recipient is: Abilene Christian University
+19-Oct-20 23:55:24:DEBUG:Sending to: info@admissions.acu.edu
+19-Oct-20 23:55:24:INFO:Starting on email for: Abilene Christian University
+19-Oct-20 23:55:24:INFO:Email for Abilene Christian University has been successfully sent to info@admissions.acu.edu!
+19-Oct-20 23:55:24:INFO:#####
+19-Oct-20 23:55:25:DEBUG:Recipient is: Academy Of Art University
+19-Oct-20 23:55:25:DEBUG:Sending to: admissions@academyart.edu
+19-Oct-20 23:55:25:INFO:Starting on email for: Academy Of Art University
+19-Oct-20 23:55:25:INFO:Email for Academy Of Art University has been successfully sent to admissions@academyart.edu!
+19-Oct-20 23:55:25:INFO:#####
+19-Oct-20 23:55:26:DEBUG:Recipient is: Acadia University
+19-Oct-20 23:55:26:DEBUG:Sending to: admissions@acadiau.ca
+19-Oct-20 23:55:26:INFO:Starting on email for: Acadia University
+19-Oct-20 23:55:26:INFO:Email for Acadia University has been successfully sent to admissions@acadiau.ca!
+19-Oct-20 23:55:26:INFO:#####
+19-Oct-20 23:55:27:DEBUG:Recipient is: Adams State University
+19-Oct-20 23:55:27:DEBUG:Sending to: admissions@adams.edu
+19-Oct-20 23:55:27:INFO:Starting on email for: Adams State University
+19-Oct-20 23:55:27:INFO:Email for Adams State University has been successfully sent to admissions@adams.edu!
+19-Oct-20 23:55:27:INFO:#####
+19-Oct-20 23:55:28:DEBUG:Recipient is: Adelphi University
+19-Oct-20 23:55:28:DEBUG:Sending to: admissions@adelphi.edu
+19-Oct-20 23:55:28:INFO:Starting on email for: Adelphi University
+19-Oct-20 23:55:28:INFO:Email for Adelphi University has been successfully sent to admissions@adelphi.edu!
+19-Oct-20 23:55:28:INFO:#####
+19-Oct-20 23:55:29:DEBUG:Recipient is: Adrian College
+19-Oct-20 23:55:29:DEBUG:Sending to: admissions@adrian.edu
+19-Oct-20 23:55:29:INFO:Starting on email for: Adrian College
+19-Oct-20 23:55:29:INFO:Email for Adrian College has been successfully sent to admissions@adrian.edu!
+19-Oct-20 23:55:29:INFO:#####
+19-Oct-20 23:55:30:DEBUG:Recipient is: Agnes Scott College
+19-Oct-20 23:55:30:DEBUG:Sending to: admission@agnesscott.edu
+19-Oct-20 23:55:30:INFO:Starting on email for: Agnes Scott College
+19-Oct-20 23:55:30:INFO:Email for Agnes Scott College has been successfully sent to admission@agnesscott.edu!
+19-Oct-20 23:55:30:INFO:#####
+19-Oct-20 23:55:31:DEBUG:Recipient is: Alabama Agricultural And Mechanical University
+19-Oct-20 23:55:31:DEBUG:Sending to: admissions@aamu.edu
+19-Oct-20 23:55:31:INFO:Starting on email for: Alabama Agricultural And Mechanical University
+19-Oct-20 23:55:31:INFO:Email for Alabama Agricultural And Mechanical University has been successfully sent to admissions@aamu.edu!
+19-Oct-20 23:55:31:INFO:#####
+19-Oct-20 23:55:32:DEBUG:Recipient is: Alabama State University
+19-Oct-20 23:55:32:DEBUG:Sending to: admissions@alasu.edu
+19-Oct-20 23:55:32:INFO:Starting on email for: Alabama State University
+19-Oct-20 23:55:32:INFO:Email for Alabama State University has been successfully sent to admissions@alasu.edu!
+19-Oct-20 23:55:32:INFO:#####
+19-Oct-20 23:55:33:CRITICAL:Max email limit reached. Exiting...
+19-Oct-20 23:56:20:INFO:********************************************
+19-Oct-20 23:56:20:INFO:Starting Gmail email script...
+19-Oct-20 23:56:20:WARNING:SAFEMODE is ON
+19-Oct-20 23:56:20:INFO:Token found.
+19-Oct-20 23:56:20:DEBUG:Toekn inport successful
+19-Oct-20 23:56:20:WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+19-Oct-20 23:56:20:DEBUG:URL being requested: GET https://www.googleapis.com/discovery/v1/apis/gmail/v1/rest
+19-Oct-20 23:56:20:DEBUG:Service build successful!
+19-Oct-20 23:56:20:DEBUG:Sheet found
+19-Oct-20 23:56:20:DEBUG:Using userId: me
+19-Oct-20 23:56:20:INFO:Using sender as: David Sim <dsim4205@tcusd.net>
+19-Oct-20 23:56:20:DEBUG:Subject is: Please let me know more
+19-Oct-20 23:56:20:INFO:Max rows is: 1718
+19-Oct-20 23:56:20:DEBUG:Recipient is: Abilene Christian University
+19-Oct-20 23:56:20:DEBUG:Sending to: info@admissions.acu.edu
+19-Oct-20 23:56:20:INFO:Starting on email for: Abilene Christian University
+19-Oct-20 23:56:20:INFO:Email for Abilene Christian University has been successfully sent to info@admissions.acu.edu!
+19-Oct-20 23:56:20:INFO:#####
+19-Oct-20 23:56:21:DEBUG:Recipient is: Academy Of Art University
+19-Oct-20 23:56:21:DEBUG:Sending to: admissions@academyart.edu
+19-Oct-20 23:56:21:INFO:Starting on email for: Academy Of Art University
+19-Oct-20 23:56:21:INFO:Email for Academy Of Art University has been successfully sent to admissions@academyart.edu!
+19-Oct-20 23:56:21:INFO:#####
+19-Oct-20 23:56:22:DEBUG:Recipient is: Acadia University
+19-Oct-20 23:56:22:DEBUG:Sending to: admissions@acadiau.ca
+19-Oct-20 23:56:22:INFO:Starting on email for: Acadia University
+19-Oct-20 23:56:22:INFO:Email for Acadia University has been successfully sent to admissions@acadiau.ca!
+19-Oct-20 23:56:22:INFO:#####
+19-Oct-20 23:56:23:DEBUG:Recipient is: Adams State University
+19-Oct-20 23:56:23:DEBUG:Sending to: admissions@adams.edu
+19-Oct-20 23:56:23:INFO:Starting on email for: Adams State University
+19-Oct-20 23:56:23:INFO:Email for Adams State University has been successfully sent to admissions@adams.edu!
+19-Oct-20 23:56:23:INFO:#####
+19-Oct-20 23:56:24:DEBUG:Recipient is: Adelphi University
+19-Oct-20 23:56:24:DEBUG:Sending to: admissions@adelphi.edu
+19-Oct-20 23:56:24:INFO:Starting on email for: Adelphi University
+19-Oct-20 23:56:24:INFO:Email for Adelphi University has been successfully sent to admissions@adelphi.edu!
+19-Oct-20 23:56:24:INFO:#####
+19-Oct-20 23:56:25:DEBUG:Recipient is: Adrian College
+19-Oct-20 23:56:25:DEBUG:Sending to: admissions@adrian.edu
+19-Oct-20 23:56:25:INFO:Starting on email for: Adrian College
+19-Oct-20 23:56:25:INFO:Email for Adrian College has been successfully sent to admissions@adrian.edu!
+19-Oct-20 23:56:25:INFO:#####
+19-Oct-20 23:56:26:DEBUG:Recipient is: Agnes Scott College
+19-Oct-20 23:56:26:DEBUG:Sending to: admission@agnesscott.edu
+19-Oct-20 23:56:26:INFO:Starting on email for: Agnes Scott College
+19-Oct-20 23:56:26:INFO:Email for Agnes Scott College has been successfully sent to admission@agnesscott.edu!
+19-Oct-20 23:56:26:INFO:#####
+19-Oct-20 23:56:27:DEBUG:Recipient is: Alabama Agricultural And Mechanical University
+19-Oct-20 23:56:27:DEBUG:Sending to: admissions@aamu.edu
+19-Oct-20 23:56:27:INFO:Starting on email for: Alabama Agricultural And Mechanical University
+19-Oct-20 23:56:27:INFO:Email for Alabama Agricultural And Mechanical University has been successfully sent to admissions@aamu.edu!
+19-Oct-20 23:56:27:INFO:#####
+19-Oct-20 23:56:28:DEBUG:Recipient is: Alabama State University
+19-Oct-20 23:56:28:DEBUG:Sending to: admissions@alasu.edu
+19-Oct-20 23:56:28:INFO:Starting on email for: Alabama State University
+19-Oct-20 23:56:28:INFO:Email for Alabama State University has been successfully sent to admissions@alasu.edu!
+19-Oct-20 23:56:28:INFO:#####
+19-Oct-20 23:56:29:CRITICAL:Max email limit reached. Exiting...

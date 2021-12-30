@@ -1,0 +1,798 @@
+23-Feb-21 16:59:50:INFO:********************************************
+23-Feb-21 16:59:50:INFO:Starting Gmail email script...
+23-Feb-21 16:59:50:INFO:Token found.
+23-Feb-21 16:59:56:WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+23-Feb-21 16:59:56:INFO:Using sender as: David Sim<dsim4205@tcusd.net>
+23-Feb-21 16:59:56:INFO:Max rows is: 23and max column is: 4
+23-Feb-21 16:59:56:INFO:Starting on email for: Hailey
+23-Feb-21 16:59:57:INFO:     Draft saved to Google's servers with id: r-437230479215723141
+23-Feb-21 16:59:57:INFO:Email for Hailey has been successfully sent to hau3725@tcusd.net!
+23-Feb-21 16:59:57:INFO:#####
+23-Feb-21 16:59:57:INFO:Sending email to: Hailey with the address: hau3725@tcusd.net
+23-Feb-21 16:59:57:INFO:With body content:
+Dear Hailey,
+ 
+This is a reminder to join us next week for the meeting you've been waiting for. We will finally be going over some more speciics about the program, our experiences, and how you can be apart of it! You sure don't want to miss this one. 
+
+The meeting will be next Monday, Mar 1, 2021, at 1:00 PM.
+
+Topic: Savay Lieu's Personal Meeting Room
+Join Zoom Meeting
+https://us02web.zoom.us/j/4749421865?pwd=N3h2T1VtK2ZYWTY5dGpISnE5VFBRQT09
+
+Meeting ID: 474 942 1865
+Passcode: 1rypWN
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+23-Feb-21 16:59:58:INFO:Starting on email for: Adrian
+23-Feb-21 16:59:59:INFO:     Draft saved to Google's servers with id: r2123261280390659287
+23-Feb-21 16:59:59:INFO:Email for Adrian has been successfully sent to cchow3786@tcusd.net!
+23-Feb-21 16:59:59:INFO:#####
+23-Feb-21 16:59:59:INFO:Sending email to: Adrian with the address: cchow3786@tcusd.net
+23-Feb-21 16:59:59:INFO:With body content:
+Dear Adrian,
+ 
+This is a reminder to join us next week for the meeting you've been waiting for. We will finally be going over some more speciics about the program, our experiences, and how you can be apart of it! You sure don't want to miss this one. 
+
+The meeting will be next Monday, Mar 1, 2021, at 1:00 PM.
+
+Topic: Savay Lieu's Personal Meeting Room
+Join Zoom Meeting
+https://us02web.zoom.us/j/4749421865?pwd=N3h2T1VtK2ZYWTY5dGpISnE5VFBRQT09
+
+Meeting ID: 474 942 1865
+Passcode: 1rypWN
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+23-Feb-21 17:00:00:INFO:Starting on email for: My Cat
+23-Feb-21 17:00:00:INFO:     Draft saved to Google's servers with id: r8198372794427333384
+23-Feb-21 17:00:00:INFO:Email for My Cat has been successfully sent to MDuong0107@tcusd.net!
+23-Feb-21 17:00:00:INFO:#####
+23-Feb-21 17:00:00:INFO:Sending email to: My Cat with the address: MDuong0107@tcusd.net
+23-Feb-21 17:00:00:INFO:With body content:
+Dear My Cat,
+ 
+This is a reminder to join us next week for the meeting you've been waiting for. We will finally be going over some more speciics about the program, our experiences, and how you can be apart of it! You sure don't want to miss this one. 
+
+The meeting will be next Monday, Mar 1, 2021, at 1:00 PM.
+
+Topic: Savay Lieu's Personal Meeting Room
+Join Zoom Meeting
+https://us02web.zoom.us/j/4749421865?pwd=N3h2T1VtK2ZYWTY5dGpISnE5VFBRQT09
+
+Meeting ID: 474 942 1865
+Passcode: 1rypWN
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+23-Feb-21 17:00:01:INFO:Starting on email for: Kaylee
+23-Feb-21 17:00:02:INFO:     Draft saved to Google's servers with id: r-1973052874985387779
+23-Feb-21 17:00:02:INFO:Email for Kaylee has been successfully sent to keiber4542@tcusd.net!
+23-Feb-21 17:00:02:INFO:#####
+23-Feb-21 17:00:02:INFO:Sending email to: Kaylee with the address: keiber4542@tcusd.net
+23-Feb-21 17:00:02:INFO:With body content:
+Dear Kaylee,
+ 
+This is a reminder to join us next week for the meeting you've been waiting for. We will finally be going over some more speciics about the program, our experiences, and how you can be apart of it! You sure don't want to miss this one. 
+
+The meeting will be next Monday, Mar 1, 2021, at 1:00 PM.
+
+Topic: Savay Lieu's Personal Meeting Room
+Join Zoom Meeting
+https://us02web.zoom.us/j/4749421865?pwd=N3h2T1VtK2ZYWTY5dGpISnE5VFBRQT09
+
+Meeting ID: 474 942 1865
+Passcode: 1rypWN
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+23-Feb-21 17:00:03:INFO:Starting on email for: Stephanie
+23-Feb-21 17:00:03:INFO:     Draft saved to Google's servers with id: r3204464003154305206
+23-Feb-21 17:00:03:INFO:Email for Stephanie has been successfully sent to xhu2863@tcusd.net!
+23-Feb-21 17:00:03:INFO:#####
+23-Feb-21 17:00:03:INFO:Sending email to: Stephanie with the address: xhu2863@tcusd.net
+23-Feb-21 17:00:03:INFO:With body content:
+Dear Stephanie,
+ 
+This is a reminder to join us next week for the meeting you've been waiting for. We will finally be going over some more speciics about the program, our experiences, and how you can be apart of it! You sure don't want to miss this one. 
+
+The meeting will be next Monday, Mar 1, 2021, at 1:00 PM.
+
+Topic: Savay Lieu's Personal Meeting Room
+Join Zoom Meeting
+https://us02web.zoom.us/j/4749421865?pwd=N3h2T1VtK2ZYWTY5dGpISnE5VFBRQT09
+
+Meeting ID: 474 942 1865
+Passcode: 1rypWN
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+23-Feb-21 17:00:04:INFO:Starting on email for: Jonathan
+23-Feb-21 17:00:05:INFO:     Draft saved to Google's servers with id: r-5242880050879415533
+23-Feb-21 17:00:05:INFO:Email for Jonathan has been successfully sent to jlee4933@tcusd.net!
+23-Feb-21 17:00:05:INFO:#####
+23-Feb-21 17:00:05:INFO:Sending email to: Jonathan with the address: jlee4933@tcusd.net
+23-Feb-21 17:00:05:INFO:With body content:
+Dear Jonathan,
+ 
+This is a reminder to join us next week for the meeting you've been waiting for. We will finally be going over some more speciics about the program, our experiences, and how you can be apart of it! You sure don't want to miss this one. 
+
+The meeting will be next Monday, Mar 1, 2021, at 1:00 PM.
+
+Topic: Savay Lieu's Personal Meeting Room
+Join Zoom Meeting
+https://us02web.zoom.us/j/4749421865?pwd=N3h2T1VtK2ZYWTY5dGpISnE5VFBRQT09
+
+Meeting ID: 474 942 1865
+Passcode: 1rypWN
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+23-Feb-21 17:00:06:INFO:Starting on email for: Jason
+23-Feb-21 17:00:06:INFO:     Draft saved to Google's servers with id: r-5399027879741780512
+23-Feb-21 17:00:06:INFO:Email for Jason has been successfully sent to jlee3440@tcusd.net!
+23-Feb-21 17:00:06:INFO:#####
+23-Feb-21 17:00:06:INFO:Sending email to: Jason with the address: jlee3440@tcusd.net
+23-Feb-21 17:00:06:INFO:With body content:
+Dear Jason,
+ 
+This is a reminder to join us next week for the meeting you've been waiting for. We will finally be going over some more speciics about the program, our experiences, and how you can be apart of it! You sure don't want to miss this one. 
+
+The meeting will be next Monday, Mar 1, 2021, at 1:00 PM.
+
+Topic: Savay Lieu's Personal Meeting Room
+Join Zoom Meeting
+https://us02web.zoom.us/j/4749421865?pwd=N3h2T1VtK2ZYWTY5dGpISnE5VFBRQT09
+
+Meeting ID: 474 942 1865
+Passcode: 1rypWN
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+23-Feb-21 17:00:07:INFO:Starting on email for: Vicky
+23-Feb-21 17:00:08:INFO:     Draft saved to Google's servers with id: r-2611689733455152752
+23-Feb-21 17:00:08:INFO:Email for Vicky has been successfully sent to wli4135@tcusd.net!
+23-Feb-21 17:00:08:INFO:#####
+23-Feb-21 17:00:08:INFO:Sending email to: Vicky with the address: wli4135@tcusd.net
+23-Feb-21 17:00:08:INFO:With body content:
+Dear Vicky,
+ 
+This is a reminder to join us next week for the meeting you've been waiting for. We will finally be going over some more speciics about the program, our experiences, and how you can be apart of it! You sure don't want to miss this one. 
+
+The meeting will be next Monday, Mar 1, 2021, at 1:00 PM.
+
+Topic: Savay Lieu's Personal Meeting Room
+Join Zoom Meeting
+https://us02web.zoom.us/j/4749421865?pwd=N3h2T1VtK2ZYWTY5dGpISnE5VFBRQT09
+
+Meeting ID: 474 942 1865
+Passcode: 1rypWN
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+23-Feb-21 17:00:09:INFO:Starting on email for: Jasmine
+23-Feb-21 17:00:09:INFO:     Draft saved to Google's servers with id: r8934597236627312012
+23-Feb-21 17:00:09:INFO:Email for Jasmine has been successfully sent to jliu2788@tcusd.net!
+23-Feb-21 17:00:09:INFO:#####
+23-Feb-21 17:00:09:INFO:Sending email to: Jasmine with the address: jliu2788@tcusd.net
+23-Feb-21 17:00:09:INFO:With body content:
+Dear Jasmine,
+ 
+This is a reminder to join us next week for the meeting you've been waiting for. We will finally be going over some more speciics about the program, our experiences, and how you can be apart of it! You sure don't want to miss this one. 
+
+The meeting will be next Monday, Mar 1, 2021, at 1:00 PM.
+
+Topic: Savay Lieu's Personal Meeting Room
+Join Zoom Meeting
+https://us02web.zoom.us/j/4749421865?pwd=N3h2T1VtK2ZYWTY5dGpISnE5VFBRQT09
+
+Meeting ID: 474 942 1865
+Passcode: 1rypWN
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+23-Feb-21 17:00:10:INFO:Starting on email for: Chloe
+23-Feb-21 17:00:48:INFO:********************************************
+23-Feb-21 17:00:48:INFO:Starting Gmail email script...
+23-Feb-21 17:00:48:INFO:Token found.
+23-Feb-21 17:00:48:WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+23-Feb-21 17:00:48:INFO:Using sender as: David Sim<dsim4205@tcusd.net>
+23-Feb-21 17:00:48:INFO:Max rows is: 23and max column is: 4
+23-Feb-21 17:00:48:INFO:Starting on email for: Hailey
+23-Feb-21 17:00:48:INFO:     Draft saved to Google's servers with id: r2372012320511918490
+23-Feb-21 17:00:48:INFO:Email for Hailey has been successfully sent to hau3725@tcusd.net!
+23-Feb-21 17:00:48:INFO:#####
+23-Feb-21 17:00:48:INFO:Sending email to: Hailey with the address: hau3725@tcusd.net
+23-Feb-21 17:00:48:INFO:With body content:
+Dear Hailey,
+ 
+This is a reminder to join us next week for the meeting you've been waiting for. We will finally be going over some more specifics about the program, our experiences, and how you can be apart of it! You sure don't want to miss this one. 
+
+The meeting will be next Monday, Mar 1, 2021, at 1:00 PM.
+
+Topic: Savay Lieu's Personal Meeting Room
+Join Zoom Meeting
+https://us02web.zoom.us/j/4749421865?pwd=N3h2T1VtK2ZYWTY5dGpISnE5VFBRQT09
+
+Meeting ID: 474 942 1865
+Passcode: 1rypWN
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+23-Feb-21 17:00:49:INFO:Starting on email for: Adrian
+23-Feb-21 17:00:50:INFO:     Draft saved to Google's servers with id: r8633239891538216555
+23-Feb-21 17:00:50:INFO:Email for Adrian has been successfully sent to cchow3786@tcusd.net!
+23-Feb-21 17:00:50:INFO:#####
+23-Feb-21 17:00:50:INFO:Sending email to: Adrian with the address: cchow3786@tcusd.net
+23-Feb-21 17:00:50:INFO:With body content:
+Dear Adrian,
+ 
+This is a reminder to join us next week for the meeting you've been waiting for. We will finally be going over some more specifics about the program, our experiences, and how you can be apart of it! You sure don't want to miss this one. 
+
+The meeting will be next Monday, Mar 1, 2021, at 1:00 PM.
+
+Topic: Savay Lieu's Personal Meeting Room
+Join Zoom Meeting
+https://us02web.zoom.us/j/4749421865?pwd=N3h2T1VtK2ZYWTY5dGpISnE5VFBRQT09
+
+Meeting ID: 474 942 1865
+Passcode: 1rypWN
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+23-Feb-21 17:00:51:INFO:Starting on email for: My Cat
+23-Feb-21 17:00:51:INFO:     Draft saved to Google's servers with id: r-573651004030300870
+23-Feb-21 17:00:51:INFO:Email for My Cat has been successfully sent to MDuong0107@tcusd.net!
+23-Feb-21 17:00:51:INFO:#####
+23-Feb-21 17:00:51:INFO:Sending email to: My Cat with the address: MDuong0107@tcusd.net
+23-Feb-21 17:00:51:INFO:With body content:
+Dear My Cat,
+ 
+This is a reminder to join us next week for the meeting you've been waiting for. We will finally be going over some more specifics about the program, our experiences, and how you can be apart of it! You sure don't want to miss this one. 
+
+The meeting will be next Monday, Mar 1, 2021, at 1:00 PM.
+
+Topic: Savay Lieu's Personal Meeting Room
+Join Zoom Meeting
+https://us02web.zoom.us/j/4749421865?pwd=N3h2T1VtK2ZYWTY5dGpISnE5VFBRQT09
+
+Meeting ID: 474 942 1865
+Passcode: 1rypWN
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+23-Feb-21 17:00:52:INFO:Starting on email for: Kaylee
+23-Feb-21 17:00:53:INFO:     Draft saved to Google's servers with id: r3744510883455435974
+23-Feb-21 17:00:53:INFO:Email for Kaylee has been successfully sent to keiber4542@tcusd.net!
+23-Feb-21 17:00:53:INFO:#####
+23-Feb-21 17:00:53:INFO:Sending email to: Kaylee with the address: keiber4542@tcusd.net
+23-Feb-21 17:00:53:INFO:With body content:
+Dear Kaylee,
+ 
+This is a reminder to join us next week for the meeting you've been waiting for. We will finally be going over some more specifics about the program, our experiences, and how you can be apart of it! You sure don't want to miss this one. 
+
+The meeting will be next Monday, Mar 1, 2021, at 1:00 PM.
+
+Topic: Savay Lieu's Personal Meeting Room
+Join Zoom Meeting
+https://us02web.zoom.us/j/4749421865?pwd=N3h2T1VtK2ZYWTY5dGpISnE5VFBRQT09
+
+Meeting ID: 474 942 1865
+Passcode: 1rypWN
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+23-Feb-21 17:00:54:INFO:Starting on email for: Stephanie
+23-Feb-21 17:00:54:INFO:     Draft saved to Google's servers with id: r-2641569380680232290
+23-Feb-21 17:00:54:INFO:Email for Stephanie has been successfully sent to xhu2863@tcusd.net!
+23-Feb-21 17:00:54:INFO:#####
+23-Feb-21 17:00:54:INFO:Sending email to: Stephanie with the address: xhu2863@tcusd.net
+23-Feb-21 17:00:54:INFO:With body content:
+Dear Stephanie,
+ 
+This is a reminder to join us next week for the meeting you've been waiting for. We will finally be going over some more specifics about the program, our experiences, and how you can be apart of it! You sure don't want to miss this one. 
+
+The meeting will be next Monday, Mar 1, 2021, at 1:00 PM.
+
+Topic: Savay Lieu's Personal Meeting Room
+Join Zoom Meeting
+https://us02web.zoom.us/j/4749421865?pwd=N3h2T1VtK2ZYWTY5dGpISnE5VFBRQT09
+
+Meeting ID: 474 942 1865
+Passcode: 1rypWN
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+23-Feb-21 17:00:55:INFO:Starting on email for: Jonathan
+23-Feb-21 17:00:56:INFO:     Draft saved to Google's servers with id: r-77011930570762265
+23-Feb-21 17:00:56:INFO:Email for Jonathan has been successfully sent to jlee4933@tcusd.net!
+23-Feb-21 17:00:56:INFO:#####
+23-Feb-21 17:00:56:INFO:Sending email to: Jonathan with the address: jlee4933@tcusd.net
+23-Feb-21 17:00:56:INFO:With body content:
+Dear Jonathan,
+ 
+This is a reminder to join us next week for the meeting you've been waiting for. We will finally be going over some more specifics about the program, our experiences, and how you can be apart of it! You sure don't want to miss this one. 
+
+The meeting will be next Monday, Mar 1, 2021, at 1:00 PM.
+
+Topic: Savay Lieu's Personal Meeting Room
+Join Zoom Meeting
+https://us02web.zoom.us/j/4749421865?pwd=N3h2T1VtK2ZYWTY5dGpISnE5VFBRQT09
+
+Meeting ID: 474 942 1865
+Passcode: 1rypWN
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+23-Feb-21 17:00:57:INFO:Starting on email for: Jason
+23-Feb-21 17:00:57:INFO:     Draft saved to Google's servers with id: r7779249151851943920
+23-Feb-21 17:00:57:INFO:Email for Jason has been successfully sent to jlee3440@tcusd.net!
+23-Feb-21 17:00:57:INFO:#####
+23-Feb-21 17:00:57:INFO:Sending email to: Jason with the address: jlee3440@tcusd.net
+23-Feb-21 17:00:57:INFO:With body content:
+Dear Jason,
+ 
+This is a reminder to join us next week for the meeting you've been waiting for. We will finally be going over some more specifics about the program, our experiences, and how you can be apart of it! You sure don't want to miss this one. 
+
+The meeting will be next Monday, Mar 1, 2021, at 1:00 PM.
+
+Topic: Savay Lieu's Personal Meeting Room
+Join Zoom Meeting
+https://us02web.zoom.us/j/4749421865?pwd=N3h2T1VtK2ZYWTY5dGpISnE5VFBRQT09
+
+Meeting ID: 474 942 1865
+Passcode: 1rypWN
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+23-Feb-21 17:00:58:INFO:Starting on email for: Vicky
+23-Feb-21 17:00:59:INFO:     Draft saved to Google's servers with id: r-6019946248558695796
+23-Feb-21 17:00:59:INFO:Email for Vicky has been successfully sent to wli4135@tcusd.net!
+23-Feb-21 17:00:59:INFO:#####
+23-Feb-21 17:00:59:INFO:Sending email to: Vicky with the address: wli4135@tcusd.net
+23-Feb-21 17:00:59:INFO:With body content:
+Dear Vicky,
+ 
+This is a reminder to join us next week for the meeting you've been waiting for. We will finally be going over some more specifics about the program, our experiences, and how you can be apart of it! You sure don't want to miss this one. 
+
+The meeting will be next Monday, Mar 1, 2021, at 1:00 PM.
+
+Topic: Savay Lieu's Personal Meeting Room
+Join Zoom Meeting
+https://us02web.zoom.us/j/4749421865?pwd=N3h2T1VtK2ZYWTY5dGpISnE5VFBRQT09
+
+Meeting ID: 474 942 1865
+Passcode: 1rypWN
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+23-Feb-21 17:01:00:INFO:Starting on email for: Jasmine
+23-Feb-21 17:01:00:INFO:     Draft saved to Google's servers with id: r-7405312353170847866
+23-Feb-21 17:01:00:INFO:Email for Jasmine has been successfully sent to jliu2788@tcusd.net!
+23-Feb-21 17:01:00:INFO:#####
+23-Feb-21 17:01:00:INFO:Sending email to: Jasmine with the address: jliu2788@tcusd.net
+23-Feb-21 17:01:00:INFO:With body content:
+Dear Jasmine,
+ 
+This is a reminder to join us next week for the meeting you've been waiting for. We will finally be going over some more specifics about the program, our experiences, and how you can be apart of it! You sure don't want to miss this one. 
+
+The meeting will be next Monday, Mar 1, 2021, at 1:00 PM.
+
+Topic: Savay Lieu's Personal Meeting Room
+Join Zoom Meeting
+https://us02web.zoom.us/j/4749421865?pwd=N3h2T1VtK2ZYWTY5dGpISnE5VFBRQT09
+
+Meeting ID: 474 942 1865
+Passcode: 1rypWN
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+23-Feb-21 17:01:01:INFO:Starting on email for: Chloe
+23-Feb-21 17:01:02:INFO:     Draft saved to Google's servers with id: r-6449068941200200273
+23-Feb-21 17:01:02:INFO:Email for Chloe has been successfully sent to cluong3964@tcusd.net!
+23-Feb-21 17:01:02:INFO:#####
+23-Feb-21 17:01:02:INFO:Sending email to: Chloe with the address: cluong3964@tcusd.net
+23-Feb-21 17:01:02:INFO:With body content:
+Dear Chloe,
+ 
+This is a reminder to join us next week for the meeting you've been waiting for. We will finally be going over some more specifics about the program, our experiences, and how you can be apart of it! You sure don't want to miss this one. 
+
+The meeting will be next Monday, Mar 1, 2021, at 1:00 PM.
+
+Topic: Savay Lieu's Personal Meeting Room
+Join Zoom Meeting
+https://us02web.zoom.us/j/4749421865?pwd=N3h2T1VtK2ZYWTY5dGpISnE5VFBRQT09
+
+Meeting ID: 474 942 1865
+Passcode: 1rypWN
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+23-Feb-21 17:01:03:INFO:Starting on email for: Maria
+23-Feb-21 17:01:03:INFO:     Draft saved to Google's servers with id: r8615529005748993876
+23-Feb-21 17:01:03:INFO:Email for Maria has been successfully sent to moceguera0395@tcusd.net!
+23-Feb-21 17:01:03:INFO:#####
+23-Feb-21 17:01:03:INFO:Sending email to: Maria with the address: moceguera0395@tcusd.net
+23-Feb-21 17:01:03:INFO:With body content:
+Dear Maria,
+ 
+This is a reminder to join us next week for the meeting you've been waiting for. We will finally be going over some more specifics about the program, our experiences, and how you can be apart of it! You sure don't want to miss this one. 
+
+The meeting will be next Monday, Mar 1, 2021, at 1:00 PM.
+
+Topic: Savay Lieu's Personal Meeting Room
+Join Zoom Meeting
+https://us02web.zoom.us/j/4749421865?pwd=N3h2T1VtK2ZYWTY5dGpISnE5VFBRQT09
+
+Meeting ID: 474 942 1865
+Passcode: 1rypWN
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+23-Feb-21 17:01:04:INFO:Starting on email for: Shanon
+23-Feb-21 17:01:05:INFO:     Draft saved to Google's servers with id: r6004865016395167516
+23-Feb-21 17:01:05:INFO:Email for Shanon has been successfully sent to span4658@tcusd.net!
+23-Feb-21 17:01:05:INFO:#####
+23-Feb-21 17:01:05:INFO:Sending email to: Shanon with the address: span4658@tcusd.net
+23-Feb-21 17:01:05:INFO:With body content:
+Dear Shanon,
+ 
+This is a reminder to join us next week for the meeting you've been waiting for. We will finally be going over some more specifics about the program, our experiences, and how you can be apart of it! You sure don't want to miss this one. 
+
+The meeting will be next Monday, Mar 1, 2021, at 1:00 PM.
+
+Topic: Savay Lieu's Personal Meeting Room
+Join Zoom Meeting
+https://us02web.zoom.us/j/4749421865?pwd=N3h2T1VtK2ZYWTY5dGpISnE5VFBRQT09
+
+Meeting ID: 474 942 1865
+Passcode: 1rypWN
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+23-Feb-21 17:01:06:INFO:Starting on email for: Allison
+23-Feb-21 17:01:07:INFO:     Draft saved to Google's servers with id: r1203080728025179042
+23-Feb-21 17:01:07:INFO:Email for Allison has been successfully sent to apan3320@tcusd.net!
+23-Feb-21 17:01:07:INFO:#####
+23-Feb-21 17:01:07:INFO:Sending email to: Allison with the address: apan3320@tcusd.net
+23-Feb-21 17:01:07:INFO:With body content:
+Dear Allison,
+ 
+This is a reminder to join us next week for the meeting you've been waiting for. We will finally be going over some more specifics about the program, our experiences, and how you can be apart of it! You sure don't want to miss this one. 
+
+The meeting will be next Monday, Mar 1, 2021, at 1:00 PM.
+
+Topic: Savay Lieu's Personal Meeting Room
+Join Zoom Meeting
+https://us02web.zoom.us/j/4749421865?pwd=N3h2T1VtK2ZYWTY5dGpISnE5VFBRQT09
+
+Meeting ID: 474 942 1865
+Passcode: 1rypWN
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+23-Feb-21 17:01:08:INFO:Starting on email for: Kelly
+23-Feb-21 17:01:08:INFO:     Draft saved to Google's servers with id: r-4180622609148447421
+23-Feb-21 17:01:08:INFO:Email for Kelly has been successfully sent to kpoplar3228@tcusd.net!
+23-Feb-21 17:01:08:INFO:#####
+23-Feb-21 17:01:08:INFO:Sending email to: Kelly with the address: kpoplar3228@tcusd.net
+23-Feb-21 17:01:08:INFO:With body content:
+Dear Kelly,
+ 
+This is a reminder to join us next week for the meeting you've been waiting for. We will finally be going over some more specifics about the program, our experiences, and how you can be apart of it! You sure don't want to miss this one. 
+
+The meeting will be next Monday, Mar 1, 2021, at 1:00 PM.
+
+Topic: Savay Lieu's Personal Meeting Room
+Join Zoom Meeting
+https://us02web.zoom.us/j/4749421865?pwd=N3h2T1VtK2ZYWTY5dGpISnE5VFBRQT09
+
+Meeting ID: 474 942 1865
+Passcode: 1rypWN
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+23-Feb-21 17:01:09:INFO:Starting on email for: Jaden
+23-Feb-21 17:01:10:INFO:     Draft saved to Google's servers with id: r983672403159427326
+23-Feb-21 17:01:10:INFO:Email for Jaden has been successfully sent to jqueron3535@tcusd.net!
+23-Feb-21 17:01:10:INFO:#####
+23-Feb-21 17:01:10:INFO:Sending email to: Jaden with the address: jqueron3535@tcusd.net
+23-Feb-21 17:01:10:INFO:With body content:
+Dear Jaden,
+ 
+This is a reminder to join us next week for the meeting you've been waiting for. We will finally be going over some more specifics about the program, our experiences, and how you can be apart of it! You sure don't want to miss this one. 
+
+The meeting will be next Monday, Mar 1, 2021, at 1:00 PM.
+
+Topic: Savay Lieu's Personal Meeting Room
+Join Zoom Meeting
+https://us02web.zoom.us/j/4749421865?pwd=N3h2T1VtK2ZYWTY5dGpISnE5VFBRQT09
+
+Meeting ID: 474 942 1865
+Passcode: 1rypWN
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+23-Feb-21 17:01:11:INFO:Starting on email for: Jacqueline 
+23-Feb-21 17:01:12:INFO:     Draft saved to Google's servers with id: r6673051470422166607
+23-Feb-21 17:01:12:INFO:Email for Jacqueline  has been successfully sent to jreyes1686@tcusd.net!
+23-Feb-21 17:01:12:INFO:#####
+23-Feb-21 17:01:12:INFO:Sending email to: Jacqueline  with the address: jreyes1686@tcusd.net
+23-Feb-21 17:01:12:INFO:With body content:
+Dear Jacqueline ,
+ 
+This is a reminder to join us next week for the meeting you've been waiting for. We will finally be going over some more specifics about the program, our experiences, and how you can be apart of it! You sure don't want to miss this one. 
+
+The meeting will be next Monday, Mar 1, 2021, at 1:00 PM.
+
+Topic: Savay Lieu's Personal Meeting Room
+Join Zoom Meeting
+https://us02web.zoom.us/j/4749421865?pwd=N3h2T1VtK2ZYWTY5dGpISnE5VFBRQT09
+
+Meeting ID: 474 942 1865
+Passcode: 1rypWN
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+23-Feb-21 17:01:13:INFO:Starting on email for: Armita
+23-Feb-21 17:01:13:INFO:     Draft saved to Google's servers with id: r-7423645498991670926
+23-Feb-21 17:01:13:INFO:Email for Armita has been successfully sent to ashadfar3564@tcusd.net!
+23-Feb-21 17:01:13:INFO:#####
+23-Feb-21 17:01:13:INFO:Sending email to: Armita with the address: ashadfar3564@tcusd.net
+23-Feb-21 17:01:13:INFO:With body content:
+Dear Armita,
+ 
+This is a reminder to join us next week for the meeting you've been waiting for. We will finally be going over some more specifics about the program, our experiences, and how you can be apart of it! You sure don't want to miss this one. 
+
+The meeting will be next Monday, Mar 1, 2021, at 1:00 PM.
+
+Topic: Savay Lieu's Personal Meeting Room
+Join Zoom Meeting
+https://us02web.zoom.us/j/4749421865?pwd=N3h2T1VtK2ZYWTY5dGpISnE5VFBRQT09
+
+Meeting ID: 474 942 1865
+Passcode: 1rypWN
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+23-Feb-21 17:01:14:INFO:Starting on email for: Suraj
+23-Feb-21 17:01:15:INFO:     Draft saved to Google's servers with id: r4268954158202728567
+23-Feb-21 17:01:15:INFO:Email for Suraj has been successfully sent to sshah4312@tcusd.net!
+23-Feb-21 17:01:15:INFO:#####
+23-Feb-21 17:01:15:INFO:Sending email to: Suraj with the address: sshah4312@tcusd.net
+23-Feb-21 17:01:15:INFO:With body content:
+Dear Suraj,
+ 
+This is a reminder to join us next week for the meeting you've been waiting for. We will finally be going over some more specifics about the program, our experiences, and how you can be apart of it! You sure don't want to miss this one. 
+
+The meeting will be next Monday, Mar 1, 2021, at 1:00 PM.
+
+Topic: Savay Lieu's Personal Meeting Room
+Join Zoom Meeting
+https://us02web.zoom.us/j/4749421865?pwd=N3h2T1VtK2ZYWTY5dGpISnE5VFBRQT09
+
+Meeting ID: 474 942 1865
+Passcode: 1rypWN
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+23-Feb-21 17:01:16:INFO:Starting on email for: Ashley
+23-Feb-21 17:01:17:INFO:     Draft saved to Google's servers with id: r1284004513263507706
+23-Feb-21 17:01:17:INFO:Email for Ashley has been successfully sent to atran3552@tcusd.net !
+23-Feb-21 17:01:17:INFO:#####
+23-Feb-21 17:01:17:INFO:Sending email to: Ashley with the address: atran3552@tcusd.net 
+23-Feb-21 17:01:17:INFO:With body content:
+Dear Ashley,
+ 
+This is a reminder to join us next week for the meeting you've been waiting for. We will finally be going over some more specifics about the program, our experiences, and how you can be apart of it! You sure don't want to miss this one. 
+
+The meeting will be next Monday, Mar 1, 2021, at 1:00 PM.
+
+Topic: Savay Lieu's Personal Meeting Room
+Join Zoom Meeting
+https://us02web.zoom.us/j/4749421865?pwd=N3h2T1VtK2ZYWTY5dGpISnE5VFBRQT09
+
+Meeting ID: 474 942 1865
+Passcode: 1rypWN
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+23-Feb-21 17:01:18:INFO:Starting on email for: Lauren
+23-Feb-21 17:01:18:INFO:     Draft saved to Google's servers with id: r-8678071424153841261
+23-Feb-21 17:01:18:INFO:Email for Lauren has been successfully sent to lyoder2789@tcusd.net!
+23-Feb-21 17:01:18:INFO:#####
+23-Feb-21 17:01:18:INFO:Sending email to: Lauren with the address: lyoder2789@tcusd.net
+23-Feb-21 17:01:18:INFO:With body content:
+Dear Lauren,
+ 
+This is a reminder to join us next week for the meeting you've been waiting for. We will finally be going over some more specifics about the program, our experiences, and how you can be apart of it! You sure don't want to miss this one. 
+
+The meeting will be next Monday, Mar 1, 2021, at 1:00 PM.
+
+Topic: Savay Lieu's Personal Meeting Room
+Join Zoom Meeting
+https://us02web.zoom.us/j/4749421865?pwd=N3h2T1VtK2ZYWTY5dGpISnE5VFBRQT09
+
+Meeting ID: 474 942 1865
+Passcode: 1rypWN
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+23-Feb-21 17:01:19:INFO:Starting on email for: Anne
+23-Feb-21 17:01:20:INFO:     Draft saved to Google's servers with id: r-7603987471886684880
+23-Feb-21 17:01:20:INFO:Email for Anne has been successfully sent to dzhu3885@tcusd.net!
+23-Feb-21 17:01:20:INFO:#####
+23-Feb-21 17:01:20:INFO:Sending email to: Anne with the address: dzhu3885@tcusd.net
+23-Feb-21 17:01:20:INFO:With body content:
+Dear Anne,
+ 
+This is a reminder to join us next week for the meeting you've been waiting for. We will finally be going over some more specifics about the program, our experiences, and how you can be apart of it! You sure don't want to miss this one. 
+
+The meeting will be next Monday, Mar 1, 2021, at 1:00 PM.
+
+Topic: Savay Lieu's Personal Meeting Room
+Join Zoom Meeting
+https://us02web.zoom.us/j/4749421865?pwd=N3h2T1VtK2ZYWTY5dGpISnE5VFBRQT09
+
+Meeting ID: 474 942 1865
+Passcode: 1rypWN
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+23-Feb-21 17:01:21:INFO:Starting on email for: Nicole
+23-Feb-21 17:01:22:INFO:     Draft saved to Google's servers with id: r-4737394410281391119
+23-Feb-21 17:01:22:INFO:Email for Nicole has been successfully sent to nlee2799@tcusd.net!
+23-Feb-21 17:01:22:INFO:#####
+23-Feb-21 17:01:22:INFO:Sending email to: Nicole with the address: nlee2799@tcusd.net
+23-Feb-21 17:01:22:INFO:With body content:
+Dear Nicole,
+ 
+This is a reminder to join us next week for the meeting you've been waiting for. We will finally be going over some more specifics about the program, our experiences, and how you can be apart of it! You sure don't want to miss this one. 
+
+The meeting will be next Monday, Mar 1, 2021, at 1:00 PM.
+
+Topic: Savay Lieu's Personal Meeting Room
+Join Zoom Meeting
+https://us02web.zoom.us/j/4749421865?pwd=N3h2T1VtK2ZYWTY5dGpISnE5VFBRQT09
+
+Meeting ID: 474 942 1865
+Passcode: 1rypWN
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+23-Feb-21 17:01:23:INFO:List has been cycled through. Exiting...

@@ -1,0 +1,441 @@
+07-Nov-20 21:48:41:INFO:********************************************
+07-Nov-20 21:48:41:INFO:Starting Gmail email script...
+07-Nov-20 21:48:41:INFO:Token found.
+07-Nov-20 21:48:43:WARNING:file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 33, in <module>
+    from oauth2client.contrib.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.contrib.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 37, in <module>
+    from oauth2client.locked_file import LockedFile
+ModuleNotFoundError: No module named 'oauth2client.locked_file'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/__init__.py", line 44, in autodetect
+    from . import file_cache
+  File "/usr/local/lib/python3.8/site-packages/googleapiclient/discovery_cache/file_cache.py", line 40, in <module>
+    raise ImportError(
+ImportError: file_cache is unavailable when using oauth2client >= 4.0.0 or google-auth
+07-Nov-20 21:48:44:INFO:Using sender as: David Sim<dsim4205@tcusd.net>
+07-Nov-20 21:48:44:INFO:Max rows is: 19and max column is: 4
+07-Nov-20 21:48:44:INFO:Starting on email for: Ashley
+07-Nov-20 21:48:45:INFO:     Draft saved to Google's servers with id: r2380909333591537906
+07-Nov-20 21:48:45:INFO:Email for Ashley has been successfully sent to atran3552@tcusd.net !
+07-Nov-20 21:48:45:INFO:#####
+07-Nov-20 21:48:45:INFO:Sending email to: Ashley with the address: atran3552@tcusd.net 
+07-Nov-20 21:48:45:INFO:With body content:
+Dear Ashley,
+
+As a reminder, we will be having our second Therapy Dog Club meeting tmorrow, Monday Nov. 9, at 1 PM. 
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+07-Nov-20 21:48:46:INFO:Starting on email for: Lauren
+07-Nov-20 21:48:46:INFO:     Draft saved to Google's servers with id: r6265518960172267741
+07-Nov-20 21:48:46:INFO:Email for Lauren has been successfully sent to lyoder2789@tcusd.net!
+07-Nov-20 21:48:46:INFO:#####
+07-Nov-20 21:48:46:INFO:Sending email to: Lauren with the address: lyoder2789@tcusd.net
+07-Nov-20 21:48:46:INFO:With body content:
+Dear Lauren,
+
+As a reminder, we will be having our second Therapy Dog Club meeting tmorrow, Monday Nov. 9, at 1 PM. 
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+07-Nov-20 21:48:47:INFO:Starting on email for: Shanon
+07-Nov-20 21:48:48:INFO:     Draft saved to Google's servers with id: r-8567778425394944862
+07-Nov-20 21:48:48:INFO:Email for Shanon has been successfully sent to span4658@tcusd.net!
+07-Nov-20 21:48:48:INFO:#####
+07-Nov-20 21:48:48:INFO:Sending email to: Shanon with the address: span4658@tcusd.net
+07-Nov-20 21:48:48:INFO:With body content:
+Dear Shanon,
+
+As a reminder, we will be having our second Therapy Dog Club meeting tmorrow, Monday Nov. 9, at 1 PM. 
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+07-Nov-20 21:48:49:INFO:Starting on email for: Jaden
+07-Nov-20 21:48:49:INFO:     Draft saved to Google's servers with id: r-5906170837486488307
+07-Nov-20 21:48:49:INFO:Email for Jaden has been successfully sent to jqueron3535@tcusd.net!
+07-Nov-20 21:48:49:INFO:#####
+07-Nov-20 21:48:49:INFO:Sending email to: Jaden with the address: jqueron3535@tcusd.net
+07-Nov-20 21:48:49:INFO:With body content:
+Dear Jaden,
+
+As a reminder, we will be having our second Therapy Dog Club meeting tmorrow, Monday Nov. 9, at 1 PM. 
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+07-Nov-20 21:48:50:INFO:Starting on email for: Stephanie
+07-Nov-20 21:48:50:INFO:     Draft saved to Google's servers with id: r2556106822195536768
+07-Nov-20 21:48:50:INFO:Email for Stephanie has been successfully sent to xhu2863@tcusd.net!
+07-Nov-20 21:48:50:INFO:#####
+07-Nov-20 21:48:50:INFO:Sending email to: Stephanie with the address: xhu2863@tcusd.net
+07-Nov-20 21:48:50:INFO:With body content:
+Dear Stephanie,
+
+As a reminder, we will be having our second Therapy Dog Club meeting tmorrow, Monday Nov. 9, at 1 PM. 
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+07-Nov-20 21:48:51:INFO:Starting on email for: Vicky
+07-Nov-20 21:48:52:INFO:     Draft saved to Google's servers with id: r-4803851835090123852
+07-Nov-20 21:48:52:INFO:Email for Vicky has been successfully sent to wli4135@tcusd.net!
+07-Nov-20 21:48:52:INFO:#####
+07-Nov-20 21:48:52:INFO:Sending email to: Vicky with the address: wli4135@tcusd.net
+07-Nov-20 21:48:52:INFO:With body content:
+Dear Vicky,
+
+As a reminder, we will be having our second Therapy Dog Club meeting tmorrow, Monday Nov. 9, at 1 PM. 
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+07-Nov-20 21:48:53:INFO:Starting on email for: Hailey
+07-Nov-20 21:48:53:INFO:     Draft saved to Google's servers with id: r1353456273906029765
+07-Nov-20 21:48:53:INFO:Email for Hailey has been successfully sent to hau3725@tcusd.net!
+07-Nov-20 21:48:53:INFO:#####
+07-Nov-20 21:48:53:INFO:Sending email to: Hailey with the address: hau3725@tcusd.net
+07-Nov-20 21:48:53:INFO:With body content:
+Dear Hailey,
+
+As a reminder, we will be having our second Therapy Dog Club meeting tmorrow, Monday Nov. 9, at 1 PM. 
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+07-Nov-20 21:48:54:INFO:Starting on email for: Anne
+07-Nov-20 21:48:55:INFO:     Draft saved to Google's servers with id: r6206052973911114453
+07-Nov-20 21:48:55:INFO:Email for Anne has been successfully sent to dzhu3885@tcusd.net!
+07-Nov-20 21:48:55:INFO:#####
+07-Nov-20 21:48:55:INFO:Sending email to: Anne with the address: dzhu3885@tcusd.net
+07-Nov-20 21:48:55:INFO:With body content:
+Dear Anne,
+
+As a reminder, we will be having our second Therapy Dog Club meeting tmorrow, Monday Nov. 9, at 1 PM. 
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+07-Nov-20 21:48:56:INFO:Starting on email for: Allison
+07-Nov-20 21:48:56:INFO:     Draft saved to Google's servers with id: r-5559563906568804406
+07-Nov-20 21:48:56:INFO:Email for Allison has been successfully sent to apan3320@tcusd.net!
+07-Nov-20 21:48:56:INFO:#####
+07-Nov-20 21:48:56:INFO:Sending email to: Allison with the address: apan3320@tcusd.net
+07-Nov-20 21:48:56:INFO:With body content:
+Dear Allison,
+
+As a reminder, we will be having our second Therapy Dog Club meeting tmorrow, Monday Nov. 9, at 1 PM. 
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+07-Nov-20 21:48:57:INFO:Starting on email for: Adrian
+07-Nov-20 21:48:58:INFO:     Draft saved to Google's servers with id: r-5479293873167904525
+07-Nov-20 21:48:58:INFO:Email for Adrian has been successfully sent to cchow3786@tcusd.net!
+07-Nov-20 21:48:58:INFO:#####
+07-Nov-20 21:48:58:INFO:Sending email to: Adrian with the address: cchow3786@tcusd.net
+07-Nov-20 21:48:58:INFO:With body content:
+Dear Adrian,
+
+As a reminder, we will be having our second Therapy Dog Club meeting tmorrow, Monday Nov. 9, at 1 PM. 
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+07-Nov-20 21:48:59:INFO:Starting on email for: Jonathan
+07-Nov-20 21:48:59:INFO:     Draft saved to Google's servers with id: r-3486333997394478952
+07-Nov-20 21:48:59:INFO:Email for Jonathan has been successfully sent to jlee4933@tcusd.net!
+07-Nov-20 21:48:59:INFO:#####
+07-Nov-20 21:48:59:INFO:Sending email to: Jonathan with the address: jlee4933@tcusd.net
+07-Nov-20 21:48:59:INFO:With body content:
+Dear Jonathan,
+
+As a reminder, we will be having our second Therapy Dog Club meeting tmorrow, Monday Nov. 9, at 1 PM. 
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+07-Nov-20 21:49:00:INFO:Starting on email for: Jasmine
+07-Nov-20 21:49:01:INFO:     Draft saved to Google's servers with id: r-7301194662945305149
+07-Nov-20 21:49:01:INFO:Email for Jasmine has been successfully sent to jliu2788@tcusd.net!
+07-Nov-20 21:49:01:INFO:#####
+07-Nov-20 21:49:01:INFO:Sending email to: Jasmine with the address: jliu2788@tcusd.net
+07-Nov-20 21:49:01:INFO:With body content:
+Dear Jasmine,
+
+As a reminder, we will be having our second Therapy Dog Club meeting tmorrow, Monday Nov. 9, at 1 PM. 
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+07-Nov-20 21:49:02:INFO:Starting on email for: Chloe
+07-Nov-20 21:49:02:INFO:     Draft saved to Google's servers with id: r4698635665036878271
+07-Nov-20 21:49:02:INFO:Email for Chloe has been successfully sent to cluong3964@tcusd.net!
+07-Nov-20 21:49:02:INFO:#####
+07-Nov-20 21:49:02:INFO:Sending email to: Chloe with the address: cluong3964@tcusd.net
+07-Nov-20 21:49:02:INFO:With body content:
+Dear Chloe,
+
+As a reminder, we will be having our second Therapy Dog Club meeting tmorrow, Monday Nov. 9, at 1 PM. 
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+07-Nov-20 21:49:03:INFO:Starting on email for: Kelly
+07-Nov-20 21:49:03:INFO:     Draft saved to Google's servers with id: r-9083810785347735005
+07-Nov-20 21:49:03:INFO:Email for Kelly has been successfully sent to kpoplar3228@tcusd.net!
+07-Nov-20 21:49:03:INFO:#####
+07-Nov-20 21:49:03:INFO:Sending email to: Kelly with the address: kpoplar3228@tcusd.net
+07-Nov-20 21:49:03:INFO:With body content:
+Dear Kelly,
+
+As a reminder, we will be having our second Therapy Dog Club meeting tmorrow, Monday Nov. 9, at 1 PM. 
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+07-Nov-20 21:49:04:INFO:Starting on email for: Kaylee
+07-Nov-20 21:49:05:INFO:     Draft saved to Google's servers with id: r-8737001958466021530
+07-Nov-20 21:49:05:INFO:Email for Kaylee has been successfully sent to keiber4542@tcusd.net!
+07-Nov-20 21:49:05:INFO:#####
+07-Nov-20 21:49:05:INFO:Sending email to: Kaylee with the address: keiber4542@tcusd.net
+07-Nov-20 21:49:05:INFO:With body content:
+Dear Kaylee,
+
+As a reminder, we will be having our second Therapy Dog Club meeting tmorrow, Monday Nov. 9, at 1 PM. 
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+07-Nov-20 21:49:06:INFO:Starting on email for: My Cat
+07-Nov-20 21:49:07:INFO:     Draft saved to Google's servers with id: r4968150481498485579
+07-Nov-20 21:49:07:INFO:Email for My Cat has been successfully sent to MDuong0107@tcusd.net!
+07-Nov-20 21:49:07:INFO:#####
+07-Nov-20 21:49:07:INFO:Sending email to: My Cat with the address: MDuong0107@tcusd.net
+07-Nov-20 21:49:07:INFO:With body content:
+Dear My Cat,
+
+As a reminder, we will be having our second Therapy Dog Club meeting tmorrow, Monday Nov. 9, at 1 PM. 
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+07-Nov-20 21:49:08:INFO:Starting on email for: Jacqueline 
+07-Nov-20 21:49:08:INFO:     Draft saved to Google's servers with id: r-5608395893919195229
+07-Nov-20 21:49:08:INFO:Email for Jacqueline  has been successfully sent to jreyes1686@tcusd.net!
+07-Nov-20 21:49:08:INFO:#####
+07-Nov-20 21:49:08:INFO:Sending email to: Jacqueline  with the address: jreyes1686@tcusd.net
+07-Nov-20 21:49:08:INFO:With body content:
+Dear Jacqueline ,
+
+As a reminder, we will be having our second Therapy Dog Club meeting tmorrow, Monday Nov. 9, at 1 PM. 
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+07-Nov-20 21:49:09:INFO:Starting on email for: Suraj
+07-Nov-20 21:49:10:INFO:     Draft saved to Google's servers with id: r-6666968315181193919
+07-Nov-20 21:49:10:INFO:Email for Suraj has been successfully sent to sshah4312@tcusd.net!
+07-Nov-20 21:49:10:INFO:#####
+07-Nov-20 21:49:10:INFO:Sending email to: Suraj with the address: sshah4312@tcusd.net
+07-Nov-20 21:49:10:INFO:With body content:
+Dear Suraj,
+
+As a reminder, we will be having our second Therapy Dog Club meeting tmorrow, Monday Nov. 9, at 1 PM. 
+Here is the meeting link:
+
+Join Zoom Meeting
+https://us02web.zoom.us/j/85147919091?pwd=azVFdHY0REVaQ24xSDg3TVY2aytUQT09
+
+Meeting ID: 851 4791 9091
+Passcode: i7nE9x
+
+
+Thank you for being apart of Therapy Dog Club. We'll see you there!
+
+David Sim 
+President - Therapy Dog Club
+
+07-Nov-20 21:49:11:INFO:List has been cycled through. Exiting...
