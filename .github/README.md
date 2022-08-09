@@ -1,15 +1,37 @@
-# gmailinglist
+# Gmailing List
+
 A simple mailing list using Gmail Python API
 
-### Reminder
-Make sure you read Google's TOS before use. You will need to agree to download your redientials and enable API usage in your account. The limit for sending emails is about 100 a day for normal users so be careful. 
+## Prerequisites
 
-## Dependencies
-Check with Google for a list of dependencies to download. You can also look in the script. 
+*Make sure you read Google's TOS before use. You will need to agree to download your redientials and enable API usage in your account. The limit for sending emails is about 100 a day for normal users so be careful.*
+
+### Google:
+- API key
+
+### Python Packages:
+- pickle
+- base64
+- mimetypes
+- time
+- sys
+- os
+- datetime
+- openpyxl
+- json
+- logging
+- email
+- apiclient
+- google
+
+### Installing
+
+1. Clone the repository. 
+2. Create a virtural envorinment and install the required dependencies. 
+3. Fill out the `data.json` file with the correct information. 
+4. Inser your google credentials in the same directory. 
 
 ## How to Use
-1. Download and insert the script into the same place as your credientials. 
-2. Change the fields in the *data.json* file to your needs. 
 3. Go into the code and cahnge the "*body* variabel to match your liking. 
 4. Run the code and input where your list is. (Currently the script takes **Column A** as Name and **Column B** as email. You can freely change this if you want.)
 
